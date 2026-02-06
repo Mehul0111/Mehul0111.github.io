@@ -1,16 +1,30 @@
 ---
 title: "Publications"
-description-meta: "Information, PDFs, and social metrics of papers"
-bibliography: references.bib
-csl: ieee.csl
+description-meta: "Publications grouped by type"
+filters:
+  - multibib
+validate-yaml: false
+
+bibliography:
+  journals: bib/articles.bib
+  proceedings: bib/proceedings.bib
+  reports: bib/reports.bib
+
 citeproc: true
 nocite: |
   @*
-reference-section-title: ""
-link-citations: true
+
+title-block-banner: false
 ---
 
-## All Publications
+## Journal Articles
+::: {#refs-journals}
+:::
 
-::: {#refs}
+## Conference Proceedings
+::: {#refs-proceedings}
+:::
+
+## Reports & Technical Notes
+::: {#refs-reports}
 :::
