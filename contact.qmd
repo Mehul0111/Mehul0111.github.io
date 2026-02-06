@@ -6,19 +6,10 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
-
-School
-
-College
-
-University
-
-Address: 
-
-Phone: 
-
-E-mail: 
+Mathildenstrasse, 39
+Darmstadt, 64285
+Germany
+Contact: +49-151-61018091
 
 
 </center>
