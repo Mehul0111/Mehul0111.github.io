@@ -1,6 +1,5 @@
 ---
 title: "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies"
-description: "One is thus led to conclude that the description of reality as given by a wave function is not complete."
 subtitle: "*The European Physical Journal A*"
 author: 
   - name: Omveer Singh
