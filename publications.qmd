@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 description-meta: "Information, PDFs, and social metrics of papers"
+bibliography: references.bib
 title-block-banner: false
 css: custom.css
 ---
