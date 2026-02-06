@@ -1,24 +1,24 @@
 ---
-title: "Can quantum-mechanical description of physical reality be considered complete?"
+title: "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies"
 description: "One is thus led to conclude that the description of reality as given by a wave function is not complete."
-subtitle: "*Physical Review*"
+subtitle: "*The European Physical Journal A*"
 author: 
-  - name: Albert Einstein
-  - name: Boris Podolsky
-  - name: Nathan Rosen
-date: "1935-05-15"
+  - name: Omveer Singh
+  - name: Anjali Sharma
+  - name: Nazeer Ahmad
+date: "2023-04-29"
 categories: [paper]
 image: "featured.jpg"
 citation:
   type: article-journal
-  container-title: "Physical Review"
-  doi: "10.1103/PhysRev.47.777"
-  available-date: "1935-05-15"
-  issued: "1935-05-15"
-  volume: 47
-  issue: 7938
-  page: 777-80
-  url: https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777
+  container-title: "The European Physical Journal A"
+  doi: "10.1140/epja/s10050-023-00994-w"
+  available-date: "2023-04-29"
+  issued: "2023-04-29"
+  volume: 59
+  issue: 92
+  page: 
+  url: https://link.springer.com/article/10.1140/epja/s10050-023-00994-w
 google-scholar: true
 ---
 
@@ -29,12 +29,12 @@ google-scholar: true
 
 ## Abstract
 
-In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.
-
+In this paper, we present comprehensive results on intermittency using the Scaled Factorial Moment (SFM) technique in Au + Au collisions in the FAIR energy range of 2–12A GeV in pseudorapidity 
+, azimuthal, and pseudorapidity-azimuthal spaces. The simulations are performed with a hybrid version of the Ultra-relativistic Quantum Molecular Dynamics (UrQMD) event generator. Three alternative equations of state (EoS) are employed to investigate the intermittency within the hydrodynamic scenario, namely pure Hadron Gas (HG), Chiral + HG, and Bag Model EoS. In both one and two-dimensional spaces and at all beam energies, a weak intermittent type of emission has been seen for Chiral+HG EoS. In contrast, a strong intermittent kind of emission is observed for Bag Model EoS. The incident beam energy dependency of intermittency has also been investigated. The strength of the intermittency is seen to diminish with increasing beam energy.
 
 ## Links
 
-Published [paper](https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777)
+Published [paper](https://link.springer.com/article/10.1140/epja/s10050-023-00994-w)
 
 
 ```{=html}

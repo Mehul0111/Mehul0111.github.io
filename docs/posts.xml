@@ -89,9 +89,9 @@ https://quarto.org/docs/authoring/includes.html
 </item>
 <item>
   <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
+  <dc:creator>Omveer Singh</dc:creator>
+  <dc:creator>Anjali Sharma</dc:creator>
+  <dc:creator>Nazeer Ahmad</dc:creator>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
   <description><![CDATA[ 
 
@@ -146,7 +146,7 @@ Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Tue, 14 May 1935 23:00:00 GMT</pubDate>
+  <pubDate>Fri, 28 Apr 2023 22:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
