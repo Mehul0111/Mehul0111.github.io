@@ -88,7 +88,7 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
+  <title>Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies</title>
   <dc:creator>Omveer Singh</dc:creator>
   <dc:creator>Anjali Sharma</dc:creator>
   <dc:creator>Nazeer Ahmad</dc:creator>
@@ -114,35 +114,35 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
+<p>In this paper, we present comprehensive results on intermittency using the Scaled Factorial Moment (SFM) technique in Au + Au collisions in the FAIR energy range of 2–12A GeV in pseudorapidity , azimuthal, and pseudorapidity-azimuthal spaces. The simulations are performed with a hybrid version of the Ultra-relativistic Quantum Molecular Dynamics (UrQMD) event generator. Three alternative equations of state (EoS) are employed to investigate the intermittency within the hydrodynamic scenario, namely pure Hadron Gas (HG), Chiral + HG, and Bag Model EoS. In both one and two-dimensional spaces and at all beam energies, a weak intermittent type of emission has been seen for Chiral+HG EoS. In contrast, a strong intermittent kind of emission is observed for Bag Model EoS. The incident beam energy dependency of intermittency has also been investigated. The strength of the intermittency is seen to diminish with increasing beam energy.</p>
 </section>
 <section id="links" class="level2">
 <h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
+<p>Published <a href="https://link.springer.com/article/10.1140/epja/s10050-023-00994-w">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1140/epja/s10050-023-00994-w"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1140/epja/s10050-023-00994-w" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{singh2023,
+  author = {Singh, Omveer and Sharma, Anjali and Ahmad, Nazeer},
+  title = {Intermittency Analysis in Relativistic Hydrodynamic
+    Simulations of Heavy-Ion Collision at {FAIR} Energies},
+  journal = {The European Physical Journal A},
+  volume = {59},
+  number = {92},
+  date = {2023-04-29},
+  url = {https://link.springer.com/article/10.1140/epja/s10050-023-00994-w},
+  doi = {10.1140/epja/s10050-023-00994-w},
   langid = {en}
 }
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-singh2023" class="csl-entry quarto-appendix-citeas">
+Singh, Omveer, Anjali Sharma, and Nazeer Ahmad. 2023.
+<span>“Intermittency Analysis in Relativistic Hydrodynamic Simulations
+of Heavy-Ion Collision at FAIR Energies.”</span> <em>The European
+Physical Journal A</em> 59 (92). <a href="https://doi.org/10.1140/epja/s10050-023-00994-w">https://doi.org/10.1140/epja/s10050-023-00994-w</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
