@@ -32,10 +32,10 @@
 
 **Python A-Z™: Python for Data Science With Real Exercises!**  
 *Udemy* · May 2025  
-🐍 Python · Data analytics · Data science workflows
+🐍 Python · Data analytics · Data science workflows  
 [View credential](https://www.udemy.com/certificate/UC-26d10d5a-5038-4250-bff5-0c1e2d1ae956)  
 
 **R Programming A-Z™: R for Data Science With Real Exercises!**  
 *Udemy* · Jun 2025  
-📊 R · Statistical analysis · Data science
+📊 R · Statistical analysis · Data science  
 [View credential](https://www.udemy.com/certificate/UC-430b001c-85d4-44d4-94e3-a400a5ed95b9)
