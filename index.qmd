@@ -1,6 +1,6 @@
 ---
 title: "Omveer Singh, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "Postdoctoral Researcher — Scientific Software & Data Systems"
 image: "files/images/om.jpg"
 page-navigation: false
 toc: false
@@ -67,8 +67,7 @@ about:
 
 :::{#hero-heading}
 
-**Omveer Singh, PhD**  
-Postdoctoral Researcher — Scientific Software & Data Systems
+
 
 I am a researcher and scientific software engineer with over eight years of experience in **high-energy nuclear physics**, **detector simulation**, and **data-driven scientific computing**. My work focuses on developing robust, reproducible software pipelines for large-scale simulations and physics analysis within international collaborations, including **CBM/FAIR**, **GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 
