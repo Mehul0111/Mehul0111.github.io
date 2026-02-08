@@ -1,6 +1,41 @@
 ### Certifications
 
 **Process Data from Dirty to Clean**  
-*Google*  
-🧹 Data cleaning · 🧮 SQL · 📊 Data quality & validation  
+*Google* · Feb 2026  
+🧹 Data cleaning · 📊 Data quality · 🧮 Spreadsheets · SQL  
 [View credential](https://coursera.org/share/6cfc516e877a9bfe1244be8b5b8b6d21)
+
+**Prepare Data for Exploration**  
+*Google* · Dec 2025  
+🔍 Data preparation · 📊 Exploratory analysis · Data validation  
+[View credential](https://coursera.org/share/060c13b8a55aafb2c96382e1117b6a0e)
+
+**Ask Questions to Make Data-Driven Decisions**  
+*Google* · Nov 2025  
+📈 Data-driven decision making · 📋 Business analysis · Data presentation  
+[View credential](https://coursera.org/share/a2f0e61c74deaceb538e57f5393b0907)
+
+**Foundations: Data, Data, Everywhere**  
+*Google* · Oct 2025  
+📊 Data analysis fundamentals · Analytical thinking  
+[View credential](https://coursera.org/share/e4d3421bfd039e2e704d77440b5d017e)
+
+**Databases and SQL for Data Science with Python**  
+*IBM* · Jun 2025  
+🗄️ SQL · Relational databases · Python data access  
+[View credential](https://coursera.org/share/c1eaa389322411031dfd421ac9b278f4)
+
+**Supervised Machine Learning: Regression and Classification**  
+*Stanford University* · May 2025  
+🤖 Supervised learning · Regression · Classification  
+[View credential](https://www.coursera.org/account/accomplishments/verify/PQ6ARU3MR3P1)
+
+**Python A-Z™: Python for Data Science With Real Exercises!**  
+*Udemy* · May 2025  
+🐍 Python · Data analytics · Data science workflows
+[View credential](https://www.udemy.com/certificate/UC-26d10d5a-5038-4250-bff5-0c1e2d1ae956)  
+
+**R Programming A-Z™: R for Data Science With Real Exercises!**  
+*Udemy* · Jun 2025  
+📊 R · Statistical analysis · Data science
+[View credential](https://www.udemy.com/certificate/UC-430b001c-85d4-44d4-94e3-a400a5ed95b9)
