@@ -47,7 +47,7 @@ website:
 
     right: 
       - text: CV
-        href: files/Curriculum_Vitae_OSingh.pdf
+        href: My_CV/CV_M_Shiroya.pdf
       - icon: github
         href: https://github.com/Mehul0111
         target: _blank

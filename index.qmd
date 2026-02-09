@@ -82,12 +82,12 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 
 ### Research & Data Analytics Expertise
 
-- Data analysis, exploratory statistics, and modeling using **Python** (pandas, NumPy, SciPy) and ROOT  
-- Querying and analyzing structured datasets using **SQL**  
-- Data cleaning, transformation, and validation across heterogeneous data sources  
-- Scientific software development in **C++ and Python**  
+- ROOT/TGeo-based simulation geometry development for the Silicon Tracking System (STS)  
+- Comparative studies: Primitive solids vs. Tessellated/CAD-derived geometry (runtime, secondaries, physics impact).  
+- Tracking-performance evaluation: Efficiency, Acceptance, Momentum resolution.  
+- Data rate studies in the 4-12 AGeV/c beam-momentum range for readout electronics Front-end-Boards (FEBs) assignment to the detector.  
 - Reproducible workflows, **CMake-based builds**, CI/CD, and automated testing  
-- Data visualization and reporting for clear technical and non-technical communication
+- STS physics simulations including hits reconstruction efficiency (dead-time / electronic threshold dependence), cluster characterization, and dE/dx.
 
 ### Software Skills
 
