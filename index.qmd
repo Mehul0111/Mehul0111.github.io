@@ -75,10 +75,6 @@ Currently, I am working on the silicon microstrip detector for the Compressed Ba
 My work involves the optical inspection of the silicon sensor and the characterization of the sensor. 
 Further, I am doing the image processing of the silicon sensor which helps us to know and locate defects on sensor's surface such as implant break, open passivation, dust, damaged ac/dc pad etc.
 
-I specialize in transforming complex datasets into **reliable, actionable insights** through
-well-engineered workflows, developed within international collaborations such as **CBM/FAIR,
-GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
-
 
 ### Research & Data Analytics Expertise
 
