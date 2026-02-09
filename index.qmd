@@ -19,17 +19,14 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:mehul0113@gmail.com
-
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
       target: _blank
-
     - icon: github
       text: GitHub
       href: https://github.com/Mehul0111
       target: _blank
-
     - icon: ai orcid
       text: ORCID
       href: https://orcid.org/0000-0002-5856-1113
@@ -51,19 +48,23 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 ---
 
-:::{.band .band-soft #about-me}
-:::{.wrap}
-## About Me {.section-title}
+:::{.split-section .split-white #about}
+:::{.split-wrap}
 
-:::{.card .card-dark}
+:::{.split-title}
+## About
+:::
+
+:::{.split-body}
+I work on silicon microstrip sensors and detector performance for CBM-STS at FAIR.
+
 - Silicon microstrip sensor **optical inspection** & defect mapping  
 - Sensor characterization: implant break, open passivation, dust, pad damage  
 - Image processing workflows to locate and classify surface defects  
 - Detector R&D aligned with CBM high-rate environment  
 
 :::{.cta-row}
-[Get in touch](contact.qmd){.btnx .btn-primary}
-[Download CV](My_CV/CV_M_Shiroya.pdf){.btnx .btn-ghost}
+[Curriculum Vitae](My_CV/CV_M_Shiroya.pdf){.btnx .btn-outline}
 :::
 :::
 
@@ -72,23 +73,26 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 ---
 
-:::{.band .band-white #education}
-:::{.wrap}
-## Education {.section-title}
+:::{.split-section .split-sand #education}
+:::{.split-wrap}
 
-:::{.grid .grid-2}
-:::{.card}
-### Ph.D. (ongoing)
-**Institution:** (Your institute/university)  
-**Topic:** STS silicon microstrip detectors, geometry & performance studies  
-**Location:** Darmstadt, Germany  
+:::{.split-title}
+## Education
 :::
 
-:::{.card}
-### M.Sc. / B.Sc.
-**Institution:** (Your institute)  
-**Focus:** Nuclear / particle physics, detector physics, data analysis  
-**Year:** (Year)  
+:::{.split-body}
+:::{.edu-list}
+**Ph.D. (ongoing)**  
+*Institution:* (Your institute/university)  
+*Topic:* STS silicon microstrip detectors, geometry & performance studies  
+*Location:* Darmstadt, Germany  
+
+---
+
+**M.Sc. / B.Sc.**  
+*Institution:* (Your institute)  
+*Focus:* Nuclear / particle physics, detector physics, data analysis  
+*Year:* (Year)
 :::
 :::
 
@@ -97,12 +101,32 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 ---
 
-:::{.band .band-gradient #research}
-:::{.wrap}
-## Research Work {.section-title .section-title-light}
+:::{.split-section .split-white #awards}
+:::{.split-wrap}
 
-:::{.grid .grid-2 .vcenter}
-:::{.card .card-glass}
+:::{.split-title}
+## Awards, Scholarships<br>and Grants
+:::
+
+:::{.split-body}
+- (Fellowship / Grant) — (Year) — (Topic)  
+- (Travel grant / Scholarship) — (Year) — (Event)  
+- (Recognition / Award) — (Year) — (Notes)
+:::
+
+:::
+:::
+
+---
+
+:::{.split-section .split-sand #research}
+:::{.split-wrap}
+
+:::{.split-title}
+## Research
+:::
+
+:::{.split-body}
 ### Detector & Simulation (CBM-STS)
 
 - ROOT/TGeo **geometry development** for STS  
@@ -111,14 +135,6 @@ My research connects **silicon detector characterization**, **simulation geometr
 - Data-rate studies (4–12 AGeV/c) for FEB assignment  
 - Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
 
-:::{.cta-row}
-[Selected work](posts.qmd#category=paper){.btnx .btn-light}
-[Publications](publications.qmd){.btnx .btn-ghost-light}
-:::
-:::
-
-:::{.card .card-image}
-![](images/research-figure.png){fig-alt="Research illustration"}
 :::
 :::
 
@@ -127,40 +143,14 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 ---
 
-:::{.band .band-white #fellowships}
-:::{.wrap}
-## Fellowships & Awards {.section-title}
+:::{.split-section .split-white #news}
+:::{.split-wrap}
 
-:::{.grid .grid-3}
-:::{.card}
-### (Fellowship / Grant)
-**Role:** Applicant / Awardee  
-**Year:** (YYYY)  
-**Topic:** (1 line)  
+:::{.split-title}
+## News
 :::
 
-:::{.card}
-### (Travel grant / Scholarship)
-**Year:** (YYYY)  
-**Event:** (Conference / school)  
-:::
-
-:::{.card}
-### (Recognition / Award)
-**Year:** (YYYY)  
-**Notes:** (short)  
-:::
-:::
-
-:::
-:::
-
----
-
-:::{.band .band-soft #news}
-:::{.wrap}
-## Current News {.section-title}
-
+:::{.split-body}
 :::{.news-toolbar}
 [All News](posts.qmd){.chip}
 [Group](posts.qmd#category=group){.chip}
