@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Mehulkumar Shiroya</title>
+<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Fri, 28 Apr 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies</title>
+  <dc:creator>Omveer Singh</dc:creator>
+  <dc:creator>Anjali Sharma</dc:creator>
+  <dc:creator>Nazeer Ahmad</dc:creator>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>In this paper, we present comprehensive results on intermittency using the Scaled Factorial Moment (SFM) technique in Au + Au collisions in the FAIR energy range of 2–12A GeV in pseudorapidity , azimuthal, and pseudorapidity-azimuthal spaces. The simulations are performed with a hybrid version of the Ultra-relativistic Quantum Molecular Dynamics (UrQMD) event generator. Three alternative equations of state (EoS) are employed to investigate the intermittency within the hydrodynamic scenario, namely pure Hadron Gas (HG), Chiral + HG, and Bag Model EoS. In both one and two-dimensional spaces and at all beam energies, a weak intermittent type of emission has been seen for Chiral+HG EoS. In contrast, a strong intermittent kind of emission is observed for Bag Model EoS. The incident beam energy dependency of intermittency has also been investigated. The strength of the intermittency is seen to diminish with increasing beam energy.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://link.springer.com/article/10.1140/epja/s10050-023-00994-w">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1140/epja/s10050-023-00994-w"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1140/epja/s10050-023-00994-w" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{singh2023,
+  author = {Singh, Omveer and Sharma, Anjali and Ahmad, Nazeer},
+  title = {Intermittency Analysis in Relativistic Hydrodynamic
+    Simulations of Heavy-Ion Collision at {FAIR} Energies},
+  journal = {The European Physical Journal A},
+  volume = {59},
+  number = {92},
+  date = {2023-04-29},
+  url = {https://link.springer.com/article/10.1140/epja/s10050-023-00994-w},
+  doi = {10.1140/epja/s10050-023-00994-w},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-singh2023" class="csl-entry quarto-appendix-citeas">
+Singh, Omveer, Anjali Sharma, and Nazeer Ahmad. 2023.
+<span>“Intermittency Analysis in Relativistic Hydrodynamic Simulations
+of Heavy-Ion Collision at FAIR Energies.”</span> <em>The European
+Physical Journal A</em> 59 (92). <a href="https://doi.org/10.1140/epja/s10050-023-00994-w">https://doi.org/10.1140/epja/s10050-023-00994-w</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
+  <pubDate>Fri, 28 Apr 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/epjA.webp" medium="image" type="image/webp"/>
+</item>
+</channel>
+</rss>
