@@ -168,3 +168,67 @@ body{
 .quarto-grid-item .card-text{
   color: var(--muted);
 }
+
+/* =========================
+   GLOBAL ACADEMIC TYPOGRAPHY
+   ========================= */
+
+/* Base font for all content */
+body,
+p,
+li,
+ul,
+ol,
+div,
+span {
+  font-family: "Times New Roman", Times, "Liberation Serif", serif !important;
+  font-size: 18px;
+  line-height: 1.75;
+}
+
+/* Section titles (About, Education, Research, etc.) */
+.section-title,
+h1, h2, h3 {
+  font-family: "Times New Roman", Times, "Liberation Serif", serif !important;
+  font-weight: 800;
+  letter-spacing: 0;
+}
+
+/* Hero title */
+#hero h2 {
+  font-size: 2.4rem !important;
+}
+
+/* Section headers */
+.section-title {
+  font-size: 1.9rem !important;
+}
+
+/* Card titles (Education, Research boxes) */
+.card h3 {
+  font-size: 1.35rem;
+  margin-bottom: 0.4rem;
+}
+
+/* Card body text */
+.card p,
+.card li {
+  font-size: 1.05rem;
+}
+
+/* News listing titles */
+.quarto-grid-item .card-title {
+  font-size: 1.45rem !important;
+}
+
+/* News descriptions */
+.quarto-grid-item .card-text {
+  font-size: 1.05rem;
+}
+
+/* Buttons text */
+.btnx,
+.chip {
+  font-family: "Times New Roman", Times, serif !important;
+  font-size: 0.95rem;
+}
