@@ -10,7 +10,6 @@ format:
     theme: cosmo
     css: newstyles.css
     smooth-scroll: true
-
 about:
   id: hero
   template: trestles
@@ -44,137 +43,129 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 ---
 
-<section class="band band-soft" id="about-me">
-  <div class="wrap">
+:::{.band .band-soft #about-me}
+:::{.wrap}
+## About Me {.section-title}
 
-  ## About Me {.section-title}
+:::{.card .card-dark}
+- Silicon microstrip sensor **optical inspection** & defect mapping  
+- Sensor characterization: implant break, open passivation, dust, pad damage  
+- Image processing workflows to locate and classify surface defects  
+- Detector R&D aligned with CBM high-rate environment  
 
-  <div class="card card-dark">
-    <ul class="clean-list">
-      <li>Silicon microstrip sensor <strong>optical inspection</strong> & defect mapping</li>
-      <li>Sensor characterization: implant break, open passivation, dust, pad damage</li>
-      <li>Image processing workflows to locate and classify surface defects</li>
-      <li>Detector R&amp;D aligned with CBM high-rate environment</li>
-    </ul>
+:::{.cta-row}
+[Get in touch](contact.qmd){.btn .btn-primary}
+[Download CV](My_CV/CV_M_Shiroya.pdf){.btn .btn-ghost}
+:::
+:::
 
-    <div class="cta-row">
-      <a class="btn btn-primary" href="contact.qmd">Get in touch</a>
-      <a class="btn btn-ghost" href="My_CV/CV_M_Shiroya.pdf">Download CV</a>
-    </div>
-  </div>
-
-  </div>
-</section>
+:::
+:::
 
 ---
 
-<section class="band band-white" id="education">
-  <div class="wrap">
+:::{.band .band-white #education}
+:::{.wrap}
+## Education {.section-title}
 
-  ## Education {.section-title}
+:::{.grid .grid-2}
+:::{.card}
+### Ph.D. (ongoing)
+**Institution:** (Your institute/university)  
+**Topic:** STS silicon microstrip detectors, geometry & performance studies  
+**Location:** Darmstadt, Germany  
+:::
 
-  <div class="grid grid-2">
-    <div class="card">
-      <h3>Ph.D. (ongoing)</h3>
-      <p><strong>Institution:</strong> (Your institute/university)<br>
-      <strong>Topic:</strong> STS silicon microstrip detectors, geometry & performance studies<br>
-      <strong>Location:</strong> Darmstadt, Germany</p>
-    </div>
+:::{.card}
+### M.Sc. / B.Sc.
+**Institution:** (Your institute)  
+**Focus:** Nuclear / particle physics, detector physics, data analysis  
+**Year:** (Year)  
+:::
+:::
 
-    <div class="card">
-      <h3>M.Sc. / B.Sc.</h3>
-      <p><strong>Institution:</strong> (Your institute)<br>
-      <strong>Focus:</strong> Nuclear / particle physics, detector physics, data analysis<br>
-      <strong>Year:</strong> (Year)</p>
-    </div>
-  </div>
-
-  </div>
-</section>
-
----
-
-<section class="band band-gradient" id="research">
-  <div class="wrap">
-
-  ## Research Work {.section-title section-title-light}
-
-  <div class="grid grid-2 vcenter">
-    <div class="card card-glass">
-      <h3>Detector &amp; Simulation (CBM-STS)</h3>
-      <ul class="clean-list">
-        <li>ROOT/TGeo <strong>geometry development</strong> for STS</li>
-        <li>Primitive solids vs <strong>CAD/tessellated</strong> geometry comparison <em>(runtime, secondaries, physics impact)</em></li>
-        <li>Tracking performance: efficiency, acceptance, momentum resolution</li>
-        <li>Data-rate studies (4–12 AGeV/c) for FEB assignment</li>
-        <li>Hits/cluster studies, thresholds, dead-time dependence, <strong>dE/dx</strong></li>
-      </ul>
-
-      <div class="cta-row">
-        <a class="btn btn-light" href="posts.qmd#category=paper">Selected work</a>
-        <a class="btn btn-ghost-light" href="publications.qmd">Publications</a>
-      </div>
-    </div>
-
-    <div class="card card-image">
-      <img src="images/research-figure.png" alt="Research illustration">
-    </div>
-  </div>
-
-  </div>
-</section>
+:::
+:::
 
 ---
 
-<section class="band band-white" id="fellowships">
-  <div class="wrap">
+:::{.band .band-gradient #research}
+:::{.wrap}
+## Research Work {.section-title .section-title-light}
 
-  ## Fellowships & Awards {.section-title}
+:::{.grid .grid-2 .vcenter}
+:::{.card .card-glass}
+### Detector & Simulation (CBM-STS)
 
-  <div class="grid grid-3">
-    <div class="card">
-      <h3>(Fellowship / Grant)</h3>
-      <p><strong>Role:</strong> Applicant / Awardee<br>
-      <strong>Year:</strong> (YYYY)<br>
-      <strong>Topic:</strong> (1 line)</p>
-    </div>
+- ROOT/TGeo **geometry development** for STS  
+- Primitive solids vs **CAD/tessellated** geometry comparison *(runtime, secondaries, physics impact)*  
+- Tracking performance: efficiency, acceptance, momentum resolution  
+- Data-rate studies (4–12 AGeV/c) for FEB assignment  
+- Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
 
-    <div class="card">
-      <h3>(Travel grant / Scholarship)</h3>
-      <p><strong>Year:</strong> (YYYY)<br>
-      <strong>Event:</strong> (Conference / school)</p>
-    </div>
+:::{.cta-row}
+[Selected work](posts.qmd#category=paper){.btn .btn-light}
+[Publications](publications.qmd){.btn .btn-ghost-light}
+:::
+:::
 
-    <div class="card">
-      <h3>(Recognition / Award)</h3>
-      <p><strong>Year:</strong> (YYYY)<br>
-      <strong>Notes:</strong> (short)</p>
-    </div>
-  </div>
+:::{.card .card-image}
+![](images/research-figure.png){fig-alt="Research illustration"}
+:::
+:::
 
-  </div>
-</section>
+:::
+:::
 
 ---
 
-<section class="band band-soft" id="news">
-  <div class="wrap">
+:::{.band .band-white #fellowships}
+:::{.wrap}
+## Fellowships & Awards {.section-title}
 
-  ## Current News {.section-title}
+:::{.grid .grid-3}
+:::{.card}
+### (Fellowship / Grant)
+**Role:** Applicant / Awardee  
+**Year:** (YYYY)  
+**Topic:** (1 line)  
+:::
 
-  <div class="news-toolbar">
-    <a class="chip" href="posts.qmd">All News</a>
-    <a class="chip" href="posts.qmd#category=group">Group</a>
-    <a class="chip" href="posts.qmd#category=funding">Funding</a>
-    <a class="chip" href="posts.qmd#category=events">Events</a>
-  </div>
+:::{.card}
+### (Travel grant / Scholarship)
+**Year:** (YYYY)  
+**Event:** (Conference / school)  
+:::
 
-  ```{listing}
-  id: home-news-list
-  contents: posts
-  type: grid
-  sort:
-    - "date desc"
-  max-items: 4
-  image-height: 170px
-  fields: [image, date, title, description]
+:::{.card}
+### (Recognition / Award)
+**Year:** (YYYY)  
+**Notes:** (short)  
+:::
+:::
+
+:::
+:::
+
+---
+
+:::{.band .band-soft #news}
+:::{.wrap}
+## Current News {.section-title}
+
+:::{.news-toolbar}
+[All News](posts.qmd){.chip}
+[Group](posts.qmd#category=group){.chip}
+[Funding](posts.qmd#category=funding){.chip}
+[Events](posts.qmd#category=events){.chip}
+:::
+
+```{listing}
+id: home-news-list
+contents: posts
+type: grid
+sort:
+  - "date desc"
+max-items: 4
+image-height: 170px
+fields: [image, date, title, description]
