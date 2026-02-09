@@ -1,7 +1,7 @@
 ---
-title: "Omveer Singh, PhD"
-description: "Postdoctoral Researcher | Scientific Software Developer | Data Analyst"
-image: "files/images/om.jpg"
+title: "Mehulkumar Shiroya PhD"
+description: "Ph.D Researcher"
+image: "Profile_Photo/my_photo.jpeg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -14,7 +14,7 @@ about:
   links:
     #- icon: sun
     #  text: Lab
-    #  href: https://www.github.com/Om4143
+    #  href: https://github.com/Mehul0111
    #   target: _blank
    # - icon: globe
    #   text: Uprofile
@@ -22,10 +22,10 @@ about:
    #   target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:omvir.ch@gmail.com    
+      href: mailto:mehul0113@gmail.com    
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/osingh4143/
+      href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
       target: _blank
   #  - icon: youtube
   #    text: YouTube
@@ -71,8 +71,9 @@ about:
 
 ### Profile
 
-I am a researcher and scientific software engineer with 8+ years of experience working with
-large-scale scientific data, detector simulations, and reproducible analysis pipelines.
+Currently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter(CBM) experiment. 
+My work involves the optical inspection of the silicon sensor and the characterization of the sensor. 
+Further, I am doing the image processing of the silicon sensor which helps us to know and locate defects on sensor's surface such as implant break, open passivation, dust, damaged ac/dc pad etc.
 
 I specialize in transforming complex datasets into **reliable, actionable insights** through
 well-engineered workflows, developed within international collaborations such as **CBM/FAIR,
@@ -88,6 +89,18 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 - Reproducible workflows, **CMake-based builds**, CI/CD, and automated testing  
 - Data visualization and reporting for clear technical and non-technical communication
 
+### Software Skills
+
+- **C++** 
+- **Python** 
+- **CERN-ROOT** 
+- **GEANT4** 
+- **Git** 
+
+### Operating System
+- **Linux** 
+- **Windows**
+
 
 ### What I Work On
 
@@ -102,10 +115,11 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 
 - **Curriculum Vitae:** [PDF](files/Curriculum_Vitae_OSingh.pdf)  
 - **Publications:** [Complete list](publications.qmd) | [Selected papers](posts.qmd#category=paper)  
-- **GitHub:** [https://github.com/Om4143](https://github.com/Om4143)  
+- **GitHub:** [https://github.com/Mehul0111](https://github.com/Mehul0111)  
 - **Contact:** [Get in touch](contact.qmd)
 
 :::
 
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+
