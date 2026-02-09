@@ -89,6 +89,17 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 - Reproducible workflows, **CMake-based builds**, CI/CD, and automated testing  
 - Data visualization and reporting for clear technical and non-technical communication
 
+### Software Skills
+
+· **C++** 
+· **Python**
+· **CERN-ROOT**
+· **GEANT4** 
+· **Git**
+
+### Operating System
+· **Linux**
+
 
 ### What I Work On
 
