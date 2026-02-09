@@ -1,102 +1,13 @@
+
 project:
   type: website
   output-dir: docs
 
-# Meta
 description-meta: "Website Mehul"
 author-meta: "Dr. Mehulkumar Shiroya"
 
 website:
   title: "Mehulkumar Shiroya"
-  image: ""
-  description: ""
- 
-  navbar:
-    background: light  # You can change the background color here
-
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
-      - text: About
-        menu:
-         # - text: News
-         #   href: posts.qmd#category=news
-         # - text: Events
-         #   href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-         # - text: Grants
-         #   href: projects.qmd                                
-      #- text: Teaching # Comment the Teaching part out to remove the Teaching page
-      #  href: teaching.qmd
-      - text: Certificates
-        menu:        
-        - text: Academic
-          href: academic.qmd
-        - text: Professional
-          href: professional.qmd
-      #    href: posts.qmd#category=presentation                   
-      #- text: Group   # Comment the Group part out to remove the Group page
-      #  href: people.qmd
-
-    right: 
-      - text: CV
-        href: My_CV/CV_M_Shiroya.pdf
-      - icon: github
-        href: https://github.com/Mehul0111
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
-  
-  page-navigation: true
-  
-  page-footer: 
-    left: "[Mehul0111](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: ""
-    right:  
-      - icon: github
-        href: https://github.com/Mehul0111
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
-  
-  search:
-    location: navbar
-    type: textbox
-  
-  reader-mode: true
-
-  draft-mode: unlinked
-  
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
-#  repo-actions: [edit, issue, source]
-  
-  open-graph: true
-  
-  twitter-card: true 
-#  card-style: summary      
-  
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
-  
-  google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
-
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
 
 format:
   html:
@@ -104,19 +15,6 @@ format:
     css:
       - styles.css
       - newstyles.css
-    toc: true
-    footnotes-hover: true
-    code-copy: true
-    code-link: true
-    code-overflow: wrap
-    fig-align: center
-    link-external-icon: false
-    link-external-newwindow: true
-    email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
     include-in-header:
-      - files/includes/_academic.qmd
       - text: |
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
-
