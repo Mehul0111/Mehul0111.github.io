@@ -9,7 +9,6 @@ page-navigation: false
 <section class="hero-split">
   <div class="hero-wrap">
 
-    <!-- LEFT: Photo + icons -->
     <aside class="hero-left">
       <div class="hero-card">
 
@@ -23,12 +22,9 @@ page-navigation: false
           <a class="ico" href="mailto:mehul0113@gmail.com" aria-label="Email" title="Email">
             <i class="bi bi-envelope-fill"></i>
           </a>
-
-          <a class="ico" href="https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/" target="_blank"
-             aria-label="LinkedIn" title="LinkedIn">
+          <a class="ico" href="https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/" target="_blank" aria-label="LinkedIn" title="LinkedIn">
             <i class="bi bi-linkedin"></i>
           </a>
-
           <a class="ico" href="https://github.com/Mehul0111" target="_blank" aria-label="GitHub" title="GitHub">
             <i class="bi bi-github"></i>
           </a>
@@ -37,15 +33,14 @@ page-navigation: false
       </div>
     </aside>
 
-    <!-- RIGHT: About -->
     <main class="hero-right">
       <h1 class="hero-title">About me</h1>
 
       <p>
         Currently, I am working on silicon microstrip detector studies for the
         <strong>Compressed Baryonic Matter (CBM)</strong> experiment at FAIR (GSI Darmstadt).
-        My work includes <strong>optical inspection</strong> and <strong>sensor characterisation</strong>,
-        and <strong>image-processing</strong> methods to identify and localize sensor surface defects.
+        My work includes <strong>optical inspection</strong>, <strong>sensor characterisation</strong>,
+        and <strong>image-processing</strong> to identify and localize sensor surface defects.
       </p>
     </main>
 
