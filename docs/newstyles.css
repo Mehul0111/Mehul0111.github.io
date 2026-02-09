@@ -1,9 +1,14 @@
 
+✅ Note: The **listing block is properly closed**, and both final `:::` blocks are closed.
+
 ---
 
-# ✅ 2) FULL `newstyles.css` (copy-paste exactly)
+# ✅ 2) FULL corrected `newstyles.css` (copy-paste)
 
-Create/replace `newstyles.css` in your repo root:
+This is your CSS, but with two important additions at the end:
+
+- force **Academicons ORCID icon** to display
+- make icon links render as **icon + text** properly
 
 ```css
 :root{
@@ -172,8 +177,6 @@ body{
 /* =========================
    GLOBAL ACADEMIC TYPOGRAPHY
    ========================= */
-
-/* Base font for all content */
 body,
 p,
 li,
@@ -186,7 +189,6 @@ span {
   line-height: 1.75;
 }
 
-/* Section titles (About, Education, Research, etc.) */
 .section-title,
 h1, h2, h3 {
   font-family: "Times New Roman", Times, "Liberation Serif", serif !important;
@@ -194,41 +196,27 @@ h1, h2, h3 {
   letter-spacing: 0;
 }
 
-/* Hero title */
-#hero h2 {
-  font-size: 2.4rem !important;
-}
+#hero h2 { font-size: 2.4rem !important; }
+.section-title { font-size: 1.9rem !important; }
 
-/* Section headers */
-.section-title {
-  font-size: 1.9rem !important;
-}
-
-/* Card titles (Education, Research boxes) */
-.card h3 {
+.card h3{
   font-size: 1.35rem;
   margin-bottom: 0.4rem;
 }
 
-/* Card body text */
 .card p,
-.card li {
+.card li{
   font-size: 1.05rem;
 }
 
-/* News listing titles */
-.quarto-grid-item .card-title {
+.quarto-grid-item .card-title{
   font-size: 1.45rem !important;
 }
-
-/* News descriptions */
-.quarto-grid-item .card-text {
+.quarto-grid-item .card-text{
   font-size: 1.05rem;
 }
 
-/* Buttons text */
-.btnx,
-.chip {
+.btnx, .chip{
   font-family: "Times New Roman", Times, serif !important;
   font-size: 0.95rem;
 }
@@ -236,37 +224,29 @@ h1, h2, h3 {
 /* =========================
    HERO ICONS (BIG & COLORED)
    ========================= */
-
-/* Container spacing */
-.quarto-about-trestles .about-links {
+.quarto-about-trestles .about-links{
   gap: 1.2rem;
 }
 
-/* Base icon size */
-.quarto-about-trestles .about-links a i {
-  font-size: 2.1rem;     /* BIG icons */
+/* IMPORTANT: show BOTH FontAwesome and Academicons icons */
+.quarto-about-trestles .about-links a i,
+.quarto-about-trestles .about-links a .ai{
+  display: inline-block !important;
+  font-size: 2.1rem !important;
+  margin-right: .45rem;
+  vertical-align: -0.15rem;
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
 
-/* Hover effect */
-.quarto-about-trestles .about-links a:hover i {
+.quarto-about-trestles .about-links a:hover i,
+.quarto-about-trestles .about-links a:hover .ai{
   transform: scale(1.12);
   opacity: 0.85;
 }
 
-/* Individual brand colors */
-.quarto-about-trestles .about-links a[href*="mailto"] i {
-  color: #d946ef;  /* Email – purple */
-}
-
-.quarto-about-trestles .about-links a[href*="linkedin"] i {
-  color: #0a66c2;  /* LinkedIn blue */
-}
-
-.quarto-about-trestles .about-links a[href*="github"] i {
-  color: #111827;  /* GitHub black */
-}
-
-.quarto-about-trestles .about-links a[href*="orcid"] i {
-  color: #a6ce39;  /* Official ORCID green */
-}
+/* Brand colors */
+.quarto-about-trestles .about-links a[href*="mailto"] i { color: #d946ef; }
+.quarto-about-trestles .about-links a[href*="linkedin"] i { color: #0a66c2; }
+.quarto-about-trestles .about-links a[href*="github"] i { color: #111827; }
+.quarto-about-trestles .about-links a[href*="orcid"] .ai,
+.quarto-about-trestles .about-links a[href*="orcid"] i { color: #a6ce39; }
