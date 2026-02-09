@@ -111,16 +111,19 @@ body{ color: var(--text) !important; font-size: 18px; line-height: 1.8; }
   gap: 1rem;
 }
 
-/* Make <details> look like clickable cards */
+/* Card container */
 .box{
   border-radius: 18px;
-  padding: 0;
   border: 1px solid rgba(255,255,255,.10);
   box-shadow: 0 12px 35px rgba(0,0,0,.25);
   overflow: hidden;
+  padding: 0 !important;            /* Quarto may add padding; we control it */
 }
 
-/* Click area */
+/* Make details fill card */
+.box details{ padding: 0; }
+
+/* Click header */
 .box summary{
   list-style: none;
   cursor: pointer;
@@ -129,27 +132,28 @@ body{ color: var(--text) !important; font-size: 18px; line-height: 1.8; }
 }
 .box summary::-webkit-details-marker{ display:none; }
 
-.box summary:hover{
-  opacity: .96;
-  transform: translateY(-1px);
+/* Content area */
+.box details > :not(summary){
+  padding: 1rem 1.2rem 1.2rem 1.2rem;
+  background: rgba(0,0,0,.18);
+  border-top: 1px solid rgba(255,255,255,.10);
+  color: rgba(233,238,247,.92);
 }
 
 /* Titles */
 .box-title{ font-size: 1.35rem; font-weight: 800; }
 .box-subtitle{ margin-top: .35rem; font-size: 1rem; opacity: .9; }
 
-/* Inside content */
-.panel-inside{
-  padding: 1rem 1.2rem 1.2rem 1.2rem;
-  background: rgba(0,0,0,.18);
-  border-top: 1px solid rgba(255,255,255,.10);
-}
-
-/* Different colors */
+/* Colors */
 .box-profile summary{ background:#2b5876; color:#fff; }
 .box-edu summary{ background:#6a1b9a; color:#fff; }
 .box-soft summary{ background:#1b5e20; color:#fff; }
 
+/* Lists inside card */
+.box ul{ margin: .3rem 0 0 1.1rem; }
+.box li{ margin: .35rem 0; }
+
+/* Responsive */
 @media (max-width: 900px){
   .grid-boxes{ grid-template-columns: 1fr; }
 }

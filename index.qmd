@@ -27,55 +27,54 @@ about:
 ```{=html}
 <div class="grid-boxes">
 
-  <details class="box box-profile" open>
-    <summary>
-      <div class="box-title">Profile</div>
-      <div class="box-subtitle">CBM-STS · Silicon sensor inspection · Image processing</div>
-    </summary>
-    <div class="panel-inside">
-      <p>
-        Currently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter (CBM) experiment.
-        My work involves optical inspection and characterization of silicon sensors. I also develop image-processing
-        methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.
-      </p>
-      <p>
-        I specialize in transforming complex datasets into <strong>reliable, actionable insights</strong> through
-        reproducible workflows developed within international collaborations such as <strong>CBM/FAIR</strong>,
-        <strong>GSI Helmholtz Centre</strong>, and <strong>Goethe University Frankfurt</strong>.
-      </p>
-    </div>
-  </details>
+::: {.box .box-profile}
+<details open>
+<summary>
+<div class="box-title">Profile</div>
+<div class="box-subtitle">CBM-STS · Silicon sensor inspection · Image processing</div>
+</summary>
 
-  <details class="box box-edu">
-    <summary>
-      <div class="box-title">Education</div>
-      <div class="box-subtitle">Ph.D · M.Sc · B.Sc</div>
-    </summary>
-    <div class="panel-inside">
-      <ul>
-        <li><strong>2021–Now</strong> — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)</li>
-        <li><strong>2019–2021</strong> — M.Sc. in Physics, (your university)</li>
-        <li><strong>2016–2019</strong> — B.Sc. in Physics, (your university)</li>
-      </ul>
-    </div>
-  </details>
+Currently, I am working on the silicon microstrip detector for the **Compressed Baryonic Matter (CBM)** experiment.  
+My work involves optical inspection and characterization of silicon sensors. I also develop image-processing
+methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.
 
-  <details class="box box-soft">
-    <summary>
-      <div class="box-title">Software Skills</div>
-      <div class="box-subtitle">C++ · Python · ROOT · GEANT4 · Git</div>
-    </summary>
-    <div class="panel-inside">
-      <ul>
-        <li><strong>C++</strong>, Scientific software development</li>
-        <li><strong>Python</strong> (pandas, NumPy, SciPy)</li>
-        <li><strong>CERN ROOT</strong></li>
-        <li><strong>GEANT4</strong></li>
-        <li><strong>Git</strong>, reproducible workflows</li>
-        <li><strong>Linux / Windows</strong></li>
-      </ul>
-      <p><strong>Tech stack:</strong> Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD</p>
-    </div>
-  </details>
+I specialize in transforming complex datasets into **reliable, actionable insights** through reproducible workflows
+developed within international collaborations such as **CBM/FAIR**, **GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
+
+</details>
+:::
+
+::: {.box .box-edu}
+<details>
+<summary>
+<div class="box-title">Education</div>
+<div class="box-subtitle">Ph.D · M.Sc · B.Sc</div>
+</summary>
+
+- **2021–Now** — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)  
+- **2019–2021** — M.Sc. in Physics, *(your university)*  
+- **2016–2019** — B.Sc. in Physics, *(your university)*  
+
+</details>
+:::
+
+::: {.box .box-soft}
+<details>
+<summary>
+<div class="box-title">Software Skills</div>
+<div class="box-subtitle">C++ · Python · ROOT · GEANT4 · Git</div>
+</summary>
+
+- **C++** — scientific software development  
+- **Python** — pandas, NumPy, SciPy  
+- **CERN ROOT**  
+- **GEANT4**  
+- **Git** — reproducible workflows  
+- **Linux / Windows**
+
+**Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+
+</details>
+:::
 
 </div>
