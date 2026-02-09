@@ -123,14 +123,14 @@
     "href": "index.html#education",
     "title": "Mehulkumar Shiroya",
     "section": "Education",
-    "text": "Education\nPh.D · M.Sc · B.Sc {.hp-sub}\n\n2021–Now — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)\n\n2019–2021 — M.Sc. in Physics, (your university)\n\n2016–2019 — B.Sc. in Physics, (your university)"
+    "text": "Education"
   },
   {
     "objectID": "index.html#software-skills",
     "href": "index.html#software-skills",
     "title": "Mehulkumar Shiroya",
     "section": "Software Skills",
-    "text": "Software Skills\nC++ · Python · ROOT · GEANT4 · Git {.hp-sub}\nTech stack: Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD"
+    "text": "Software Skills\nC++ · Python · ROOT · GEANT4 · Git"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",

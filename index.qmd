@@ -1,6 +1,6 @@
 ---
-title: "Mehulkumar Shiroya"
-description: "**Ph.D Student**"
+# title: "Mehulkumar Shiroya"
+# description: "**Ph.D Student**"
 page-layout: full
 toc: false
 page-navigation: false
@@ -24,7 +24,7 @@ Ph.D Student {.hero-role}
 ::: {.stack-panels}
 
 ::: {.hpanel .hp-profile}
-## Profile {.hp-title}
+## Profile {}
 CBM-STS · Silicon sensor inspection · Image processing
 
 - Currently, I am working on the silicon microstrip detector for the **Compressed Baryonic Matter (CBM)** experiment.  
@@ -33,8 +33,8 @@ My work involves optical inspection and characterization of silicon sensors. I a
 :::
 
 ::: {.hpanel .hp-edu}
-## Education {.hp-title}
-Ph.D · M.Sc · B.Sc {.hp-sub}
+## Education {}
+# Ph.D · M.Sc · B.Sc
 
 - **2021–Now** — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)  
 - **2019–2021** — M.Sc. in Physics, *(your university)*  
@@ -43,10 +43,10 @@ Ph.D · M.Sc · B.Sc {.hp-sub}
 
 ::: {.hpanel .hp-soft}
 ## Software Skills {.hp-title}
-C++ · Python · ROOT · GEANT4 · Git {.hp-sub}
+C++ · Python · ROOT · GEANT4 · Git 
 
 
-**Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+# **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
 :::
 
 :::
