@@ -1,143 +1,82 @@
+
+---
+
+# ✅ Full corrected `index.qmd` (copy-paste replace your whole file)
+
+```yaml
 ---
 title: "Mehulkumar Shiroya"
 description: "**Ph.D Student**"
 image: "Profile_Photo/my_photo.jpeg"
-page-navigation: false
-toc: false
-#sidebar: false
 page-layout: full
+toc: false
+page-navigation: false
 
 about:
   id: hero-heading
   template: trestles
   image-width: 70%
   links:
-    #- icon: sun
-    #  text: Lab
-    #  href: https://github.com/Mehul0111
-   #   target: _blank
-   # - icon: globe
-   #   text: Uprofile
-   #   href: https://baruch.cuny.edu
-   #   target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:mehul0113@gmail.com    
+      href: mailto:mehul0113@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
       target: _blank
-  #  - icon: youtube
-  #    text: YouTube
-   #   href: https://www.youtube.com     
-   #   target: _blank 
-   # - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-   #   href: https://orcid.org
-   #   target: _blank
-   # - text: "{{< ai clarivate >}} Web of Science"
-   #   href: https://www.webofscience.com  
-    #  target: _blank
-   # - text: "{{< ai scopus >}} Scopus"
-   #   href: https://www.scopus.com
-   #   target: _blank
-   # - text: "{{< ai google-scholar >}} Google Scholar"
-   #   href: https://scholar.google.com
-    #  target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
- # - id: recent-posts
- #   contents: 
- #     - posts
- #     - posts/post-links.yml
-  #E  exclude:
-  #    title: ""
-   # type: grid
-   # max-items: 3
-#    image-height: 150px
-   # page-size: 3 #set same as max-times to remove the page number setting
-   # fields: [image, date, title, subtitle]
-   # max-description-length: 75
-   # sort: 
-   #   - "date desc"
-   #   - "title asc"
 ---
-
-:::{#hero-heading}
-
-
 
 <div class="grid-boxes">
 
-  <div class="box box-profile" data-bs-toggle="collapse" data-bs-target="#boxProfile" role="button" aria-expanded="true">
-    <div class="box-title">Profile</div>
-    <div class="box-subtitle">CBM-STS · Silicon sensor inspection · Image processing</div>
-  </div>
+  <details class="box box-profile" open>
+    <summary>
+      <div class="box-title">Profile</div>
+      <div class="box-subtitle">CBM-STS · Silicon sensor inspection · Image processing</div>
+    </summary>
+    <div class="panel-inside">
+      <p>
+        Currently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter (CBM) experiment.
+        My work involves optical inspection and characterization of silicon sensors. I also develop image-processing
+        methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.
+      </p>
+      <p>
+        I specialize in transforming complex datasets into <strong>reliable, actionable insights</strong> through
+        reproducible workflows developed within international collaborations such as <strong>CBM/FAIR</strong>,
+        <strong>GSI Helmholtz Centre</strong>, and <strong>Goethe University Frankfurt</strong>.
+      </p>
+    </div>
+  </details>
 
-  <div class="box box-edu" data-bs-toggle="collapse" data-bs-target="#boxEdu" role="button" aria-expanded="false">
-    <div class="box-title">Education</div>
-    <div class="box-subtitle">Ph.D · M.Sc · B.Sc</div>
-  </div>
+  <details class="box box-edu">
+    <summary>
+      <div class="box-title">Education</div>
+      <div class="box-subtitle">Ph.D · M.Sc · B.Sc</div>
+    </summary>
+    <div class="panel-inside">
+      <ul>
+        <li><strong>2021–Now</strong> — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)</li>
+        <li><strong>2019–2021</strong> — M.Sc. in Physics, (your university)</li>
+        <li><strong>2016–2019</strong> — B.Sc. in Physics, (your university)</li>
+      </ul>
+    </div>
+  </details>
 
-  <div class="box box-soft" data-bs-toggle="collapse" data-bs-target="#boxSoft" role="button" aria-expanded="false">
-    <div class="box-title">Software Skills</div>
-    <div class="box-subtitle">C++ · Python · ROOT · GEANT4 · Git</div>
-  </div>
-
-</div>
-
-<div class="box-panels">
-
-  <div id="boxProfile" class="collapse show panel">
-    <h3>Profile</h3>
-    <p>
-      Currently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter (CBM) experiment.
-      My work involves optical inspection and characterization of silicon sensors. I also develop image-processing
-      methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.
-    </p>
-    <p>
-      I specialize in transforming complex datasets into <strong>reliable, actionable insights</strong> through
-      reproducible workflows developed within international collaborations such as <strong>CBM/FAIR</strong>,
-      <strong>GSI Helmholtz Centre</strong>, and <strong>Goethe University Frankfurt</strong>.
-    </p>
-  </div>
-
-  <div id="boxEdu" class="collapse panel">
-    <h3>Education</h3>
-    <ul>
-      <li><strong>2021–Now</strong> — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)</li>
-      <li><strong>2019–2021</strong> — M.Sc. in Physics, (your university)</li>
-      <li><strong>2016–2019</strong> — B.Sc. in Physics, (your university)</li>
-    </ul>
-  </div>
-
-  <div id="boxSoft" class="collapse panel">
-    <h3>Software Skills</h3>
-    <ul>
-      <li><strong>C++</strong>, Scientific software development</li>
-      <li><strong>Python</strong> (pandas, NumPy, SciPy)</li>
-      <li><strong>CERN ROOT</strong></li>
-      <li><strong>GEANT4</strong></li>
-      <li><strong>Git</strong>, reproducible workflows</li>
-      <li><strong>Linux / Windows</strong></li>
-    </ul>
-
-    <p><strong>Tech stack:</strong> Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD</p>
-  </div>
+  <details class="box box-soft">
+    <summary>
+      <div class="box-title">Software Skills</div>
+      <div class="box-subtitle">C++ · Python · ROOT · GEANT4 · Git</div>
+    </summary>
+    <div class="panel-inside">
+      <ul>
+        <li><strong>C++</strong>, Scientific software development</li>
+        <li><strong>Python</strong> (pandas, NumPy, SciPy)</li>
+        <li><strong>CERN ROOT</strong></li>
+        <li><strong>GEANT4</strong></li>
+        <li><strong>Git</strong>, reproducible workflows</li>
+        <li><strong>Linux / Windows</strong></li>
+      </ul>
+      <p><strong>Tech stack:</strong> Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD</p>
+    </div>
+  </details>
 
 </div>
-
-### Get Started
-
-- **Curriculum Vitae:** [PDF](My_CV/CV_M_Shiroya.pdf)  
-- **Publications:** [Complete list](publications.qmd) | [Selected papers](posts.qmd#category=paper)  
-- **GitHub:** [https://github.com/Mehul0111](https://github.com/Mehul0111)  
-- **Contact:** [Get in touch](contact.qmd)
-
-:::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-
