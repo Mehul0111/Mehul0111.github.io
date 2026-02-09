@@ -1,72 +1,181 @@
-:::{#hero-heading}
+---
+title: "Mehulkumar Shiroya"
+description: "Ph.D. Researcher | CBM-STS | FAIR (GSI Darmstadt)"
+image: "Profile_Photo/my_photo.jpeg"
+page-navigation: false
+toc: false
+page-layout: full
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    smooth-scroll: true
+
+about:
+  id: hero
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: E-mail
+      href: mailto:mehul0113@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/Mehul0111
+      target: _blank
+---
+
+
+:::{#hero}
 
 ## Mehulkumar Shiroya  
 **Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics**
 
-I am a Ph.D. researcher working on the **Silicon Tracking System (STS)** of the **Compressed Baryonic Matter (CBM)** experiment at FAIR, GSI Darmstadt.  
-My research bridges **detector development**, **simulation**, and **data analysis**, with a focus on precision silicon microstrip detectors for high-rate heavy-ion collisions.
+I work on the **Silicon Tracking System (STS)** for the **Compressed Baryonic Matter (CBM)** experiment at FAIR (GSI Darmstadt).  
+My research connects **silicon detector characterization**, **simulation geometry**, and **high-rate tracking performance** for heavy-ion collisions.
+
+**Quick links:**  
+- **CV:** [PDF](My_CV/CV_M_Shiroya.pdf)  
+- **Publications:** [Complete list](publications.qmd)  
+- **Contact:** [contact](contact.qmd)
+
+:::
 
 ---
 
-## 🔬 Research Focus
+<section class="section-band band-dark" id="about-me">
+<div class="band-inner">
 
-- Silicon microstrip detector development and characterization  
-- Optical inspection and defect analysis of silicon sensors  
-- High-rate tracking detector performance for heavy-ion experiments  
-- Simulation–data comparison for detector validation  
+## About Me
 
----
+- Silicon microstrip sensor **optical inspection** & defect mapping  
+- Sensor characterization: implant break, open passivation, dust, pad damage  
+- Image processing workflows to locate and classify surface defects  
+- Detector R&D aligned with CBM high-rate environment
 
-## 🧪 Detector & Simulation Expertise
+<div class="cta-row">
+<a class="btn btn-outline-light" href="contact.qmd">Get in touch</a>
+<a class="btn btn-light" href="My_CV/CV_M_Shiroya.pdf">Download CV</a>
+</div>
 
-- **STS geometry development** using ROOT/TGeo  
-- CAD-based vs. primitive-solid geometry comparison  
-  *(performance, secondary production, physics impact)*  
-- Tracking performance studies:
-  - Efficiency & acceptance  
-  - Momentum resolution  
-- Data-rate and occupancy studies (4–12 AGeV/c beam momenta)  
-- Hit reconstruction, cluster properties, and **dE/dx** analysis  
-- Electronics effects: dead time, thresholds, and readout constraints  
+</div>
+</section>
 
 ---
 
-## 💻 Software & Technical Skills
+<section class="section-band band-light" id="education">
+<div class="band-inner">
 
-**Programming & Analysis**
-- C++ · Python · CERN ROOT  
+## Education
 
-**Simulation & Frameworks**
-- GEANT4 · CBMROOT · TGeo  
+::: {.grid .grid-2}
+::: {.cardx}
+### Ph.D. (ongoing)
+**Institution:** (Your institute/university)  
+**Topic:** STS silicon microstrip detectors, geometry & performance studies  
+**Location:** Darmstadt, Germany  
+:::
 
-**Tools & Workflow**
-- Git · CMake · Linux · CI/CD  
+::: {.cardx}
+### M.Sc. / B.Sc.
+**Institution:** (Your institute)  
+**Focus:** Nuclear / particle physics, detector physics, data analysis  
+**Year:** (Year)  
+:::
+:::
 
-**Operating Systems**
-- Linux · Windows  
-
----
-
-## 📊 What I Build
-
-- Scalable data-analysis pipelines for large simulation datasets  
-- Physics-driven validation workflows for detector studies  
-- Maintainable scientific software for collaborative environments  
-- Statistical analysis tools connecting simulation and experiment  
-
----
-
-## 🚀 Resources
-
-- **Curriculum Vitae:** [PDF](My_CV/CV_M_Shiroya.pdf)  
-- **Publications:**  
-  - [Complete list](publications.qmd)  
-  - [Selected papers](posts.qmd#category=paper)  
-- **GitHub:** [github.com/Mehul0111](https://github.com/Mehul0111)  
-- **Contact:** [Get in touch](contact.qmd)
+</div>
+</section>
 
 ---
 
-*Open to collaborations in detector R&D, heavy-ion physics, and data-driven analysis.*
+<section class="section-band band-dark" id="research">
+<div class="band-inner">
 
+## Research Work
+
+::: {.grid .grid-2 .vcenter}
+::: {.cardx .cardx-dark}
+### Detector & Simulation (CBM-STS)
+
+- ROOT/TGeo **geometry development** for STS  
+- Primitive solids vs **CAD/tessellated** geometry comparison  
+  *(runtime, secondaries, physics impact)*  
+- Tracking performance: efficiency, acceptance, momentum resolution  
+- Data-rate studies (4–12 AGeV/c) for FEB assignment  
+- Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
+
+<div class="cta-row">
+<a class="btn btn-outline-light" href="posts.qmd#category=paper">Selected work</a>
+<a class="btn btn-light" href="publications.qmd">Publications</a>
+</div>
+:::
+
+::: {.cardx .img-card}
+![](images/research-figure.png){fig-alt="Research illustration" width=100%}
+:::
+:::
+
+</div>
+</section>
+
+---
+
+<section class="section-band band-light" id="fellowships">
+<div class="band-inner">
+
+## Fellowships & Awards
+
+::: {.grid .grid-3}
+::: {.cardx}
+### (Fellowship / Grant)
+**Role:** Applicant / Awardee  
+**Year:** (YYYY)  
+**Topic:** (1 line)
+:::
+
+::: {.cardx}
+### (Travel grant / Scholarship)
+**Year:** (YYYY)  
+**Event:** (Conference / school)
+:::
+
+::: {.cardx}
+### (Recognition / Award)
+**Year:** (YYYY)  
+**Notes:** (short)
+:::
+:::
+
+</div>
+</section>
+
+---
+
+<section class="section-band band-dark" id="news">
+<div class="band-inner">
+
+## Current News
+
+::: {.news-toolbar}
+<a class="btn btn-outline-light btn-sm" href="posts.qmd">All News</a>
+<a class="btn btn-outline-light btn-sm" href="posts.qmd#category=group">Group</a>
+<a class="btn btn-outline-light btn-sm" href="posts.qmd#category=funding">Funding</a>
+<a class="btn btn-outline-light btn-sm" href="posts.qmd#category=events">Events</a>
+:::
+
+::: {.listing}
+:::
+
+::: {.quarto-listing}
+:::
+
+::: {.quarto-listing-container}
+:::
+
+::: {.listing}
 :::
