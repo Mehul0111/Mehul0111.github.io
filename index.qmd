@@ -50,14 +50,10 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 :::{.split-section .split-white #about}
 :::{.split-wrap}
-
 :::{.split-title}
 ## About
 :::
-
 :::{.split-body}
-I work on silicon microstrip sensors and detector performance for CBM-STS at FAIR.
-
 - Silicon microstrip sensor **optical inspection** & defect mapping  
 - Sensor characterization: implant break, open passivation, dust, pad damage  
 - Image processing workflows to locate and classify surface defects  
@@ -67,7 +63,6 @@ I work on silicon microstrip sensors and detector performance for CBM-STS at FAI
 [Curriculum Vitae](My_CV/CV_M_Shiroya.pdf){.btnx .btn-outline}
 :::
 :::
-
 :::
 :::
 
@@ -75,11 +70,9 @@ I work on silicon microstrip sensors and detector performance for CBM-STS at FAI
 
 :::{.split-section .split-sand #education}
 :::{.split-wrap}
-
 :::{.split-title}
 ## Education
 :::
-
 :::{.split-body}
 :::{.edu-list}
 **Ph.D. (ongoing)**  
@@ -95,37 +88,16 @@ I work on silicon microstrip sensors and detector performance for CBM-STS at FAI
 *Year:* (Year)
 :::
 :::
-
 :::
 :::
 
 ---
 
-:::{.split-section .split-white #awards}
+:::{.split-section .split-white #research}
 :::{.split-wrap}
-
-:::{.split-title}
-## Awards, Scholarships<br>and Grants
-:::
-
-:::{.split-body}
-- (Fellowship / Grant) — (Year) — (Topic)  
-- (Travel grant / Scholarship) — (Year) — (Event)  
-- (Recognition / Award) — (Year) — (Notes)
-:::
-
-:::
-:::
-
----
-
-:::{.split-section .split-sand #research}
-:::{.split-wrap}
-
 :::{.split-title}
 ## Research
 :::
-
 :::{.split-body}
 ### Detector & Simulation (CBM-STS)
 
@@ -134,10 +106,24 @@ I work on silicon microstrip sensors and detector performance for CBM-STS at FAI
 - Tracking performance: efficiency, acceptance, momentum resolution  
 - Data-rate studies (4–12 AGeV/c) for FEB assignment  
 - Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
-
+:::
+:::
 :::
 :::
 
+---
+
+:::{.split-section .split-sand #awards}
+:::{.split-wrap}
+:::{.split-title}
+## Awards, Scholarships<br>and Grants
+:::
+:::{.split-body}
+- (Fellowship / Grant) — (Year) — (Topic)  
+- (Travel grant / Scholarship) — (Year) — (Event)  
+- (Recognition / Award) — (Year) — (Notes)
+:::
+:::
 :::
 :::
 
@@ -145,11 +131,9 @@ I work on silicon microstrip sensors and detector performance for CBM-STS at FAI
 
 :::{.split-section .split-white #news}
 :::{.split-wrap}
-
 :::{.split-title}
 ## News
 :::
-
 :::{.split-body}
 :::{.news-toolbar}
 [All News](posts.qmd){.chip}
