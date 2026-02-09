@@ -107,9 +107,51 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mehulkumar Shiroya PhD",
+    "title": "Mehulkumar Shiroya",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\nProfile\nCurrently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter(CBM) experiment. My work involves the optical inspection of the silicon sensor and the characterization of the sensor. Further, I am doing the image processing of the silicon sensor which helps us to know and locate defects on sensor’s surface such as implant break, open passivation, dust, damaged ac/dc pad etc.\n\n\nResearch & Data Analytics Expertise\n\nROOT/TGeo-based simulation geometry development for the Silicon Tracking System (STS)\n\nComparative studies: Primitive solids vs. Tessellated/CAD-derived geometry (runtime, secondaries, physics impact).\n\nTracking-performance evaluation: Efficiency, Acceptance, Momentum resolution.\n\nData rate studies in the 4-12 AGeV/c beam-momentum range for readout electronics Front-end-Boards (FEBs) assignment to the detector.\n\nSTS physics simulations including hits reconstruction efficiency (dead-time / electronic threshold dependence), cluster characterization, and dE/dx.\n\n\n\nSoftware Skills\n\nC++\nPython\nCERN-ROOT\nGEANT4\nGit\n\n\n\nOperating System\n\nLinux\nWindows\n\n\n\nWhat I Work On\n\nDesigning reliable data analysis pipelines for large and complex datasets\n\nValidating simulations and experimental data through statistical analysis\n\nBuilding maintainable scientific software used by distributed research teams\n\nApplying physics-informed data analysis techniques to real-world problems\n\n\n\nTech stack: Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD\n\nGet Started\n\nCurriculum Vitae: PDF\n\nPublications: Complete list | Selected papers\n\nGitHub: https://github.com/Mehul0111\n\nContact: Get in touch"
+    "text": "Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics\nI am a Ph.D. researcher working on the Silicon Tracking System (STS) of the Compressed Baryonic Matter (CBM) experiment at FAIR, GSI Darmstadt.\nMy research bridges detector development, simulation, and data analysis, with a focus on precision silicon microstrip detectors for high-rate heavy-ion collisions.\n\n\n\n\n\nSilicon microstrip detector development and characterization\n\nOptical inspection and defect analysis of silicon sensors\n\nHigh-rate tracking detector performance for heavy-ion experiments\n\nSimulation–data comparison for detector validation\n\n\n\n\n\n\nSTS geometry development using ROOT/TGeo\n\nCAD-based vs. primitive-solid geometry comparison\n(performance, secondary production, physics impact)\n\nTracking performance studies:\n\nEfficiency & acceptance\n\nMomentum resolution\n\n\nData-rate and occupancy studies (4–12 AGeV/c beam momenta)\n\nHit reconstruction, cluster properties, and dE/dx analysis\n\nElectronics effects: dead time, thresholds, and readout constraints\n\n\n\n\n\nProgramming & Analysis - C++ · Python · CERN ROOT\nSimulation & Frameworks - GEANT4 · CBMROOT · TGeo\nTools & Workflow - Git · CMake · Linux · CI/CD\nOperating Systems - Linux · Windows\n\n\n\n\n\nScalable data-analysis pipelines for large simulation datasets\n\nPhysics-driven validation workflows for detector studies\n\nMaintainable scientific software for collaborative environments\n\nStatistical analysis tools connecting simulation and experiment\n\n\n\n\n\n\nCurriculum Vitae: PDF\n\nPublications:\n\nComplete list\n\nSelected papers\n\n\nGitHub: github.com/Mehul0111\n\nContact: Get in touch\n\n\nOpen to collaborations in detector R&D, heavy-ion physics, and data-driven analysis."
+  },
+  {
+    "objectID": "index.html#mehulkumar-shiroya",
+    "href": "index.html#mehulkumar-shiroya",
+    "title": "Mehulkumar Shiroya",
+    "section": "",
+    "text": "Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics\nI am a Ph.D. researcher working on the Silicon Tracking System (STS) of the Compressed Baryonic Matter (CBM) experiment at FAIR, GSI Darmstadt.\nMy research bridges detector development, simulation, and data analysis, with a focus on precision silicon microstrip detectors for high-rate heavy-ion collisions."
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Mehulkumar Shiroya",
+    "section": "",
+    "text": "Silicon microstrip detector development and characterization\n\nOptical inspection and defect analysis of silicon sensors\n\nHigh-rate tracking detector performance for heavy-ion experiments\n\nSimulation–data comparison for detector validation"
+  },
+  {
+    "objectID": "index.html#detector-simulation-expertise",
+    "href": "index.html#detector-simulation-expertise",
+    "title": "Mehulkumar Shiroya",
+    "section": "",
+    "text": "STS geometry development using ROOT/TGeo\n\nCAD-based vs. primitive-solid geometry comparison\n(performance, secondary production, physics impact)\n\nTracking performance studies:\n\nEfficiency & acceptance\n\nMomentum resolution\n\n\nData-rate and occupancy studies (4–12 AGeV/c beam momenta)\n\nHit reconstruction, cluster properties, and dE/dx analysis\n\nElectronics effects: dead time, thresholds, and readout constraints"
+  },
+  {
+    "objectID": "index.html#software-technical-skills",
+    "href": "index.html#software-technical-skills",
+    "title": "Mehulkumar Shiroya",
+    "section": "",
+    "text": "Programming & Analysis - C++ · Python · CERN ROOT\nSimulation & Frameworks - GEANT4 · CBMROOT · TGeo\nTools & Workflow - Git · CMake · Linux · CI/CD\nOperating Systems - Linux · Windows"
+  },
+  {
+    "objectID": "index.html#what-i-build",
+    "href": "index.html#what-i-build",
+    "title": "Mehulkumar Shiroya",
+    "section": "",
+    "text": "Scalable data-analysis pipelines for large simulation datasets\n\nPhysics-driven validation workflows for detector studies\n\nMaintainable scientific software for collaborative environments\n\nStatistical analysis tools connecting simulation and experiment"
+  },
+  {
+    "objectID": "index.html#resources",
+    "href": "index.html#resources",
+    "title": "Mehulkumar Shiroya",
+    "section": "",
+    "text": "Curriculum Vitae: PDF\n\nPublications:\n\nComplete list\n\nSelected papers\n\n\nGitHub: github.com/Mehul0111\n\nContact: Get in touch\n\n\nOpen to collaborations in detector R&D, heavy-ion physics, and data-driven analysis."
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",

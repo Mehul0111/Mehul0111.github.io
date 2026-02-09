@@ -1,120 +1,72 @@
----
-title: "Mehulkumar Shiroya PhD"
-description: "Ph.D Researcher"
-image: "Profile_Photo/my_photo.jpeg"
-page-navigation: false
-toc: false
-#sidebar: false
-page-layout: full
-
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 70%
-  links:
-    #- icon: sun
-    #  text: Lab
-    #  href: https://github.com/Mehul0111
-   #   target: _blank
-   # - icon: globe
-   #   text: Uprofile
-   #   href: https://baruch.cuny.edu
-   #   target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:mehul0113@gmail.com    
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
-      target: _blank
-  #  - icon: youtube
-  #    text: YouTube
-   #   href: https://www.youtube.com     
-   #   target: _blank 
-   # - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-   #   href: https://orcid.org
-   #   target: _blank
-   # - text: "{{< ai clarivate >}} Web of Science"
-   #   href: https://www.webofscience.com  
-    #  target: _blank
-   # - text: "{{< ai scopus >}} Scopus"
-   #   href: https://www.scopus.com
-   #   target: _blank
-   # - text: "{{< ai google-scholar >}} Google Scholar"
-   #   href: https://scholar.google.com
-    #  target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
- # - id: recent-posts
- #   contents: 
- #     - posts
- #     - posts/post-links.yml
-  #E  exclude:
-  #    title: ""
-   # type: grid
-   # max-items: 3
-#    image-height: 150px
-   # page-size: 3 #set same as max-times to remove the page number setting
-   # fields: [image, date, title, subtitle]
-   # max-description-length: 75
-   # sort: 
-   #   - "date desc"
-   #   - "title asc"
----
-
 :::{#hero-heading}
 
+## Mehulkumar Shiroya  
+**Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics**
 
+I am a Ph.D. researcher working on the **Silicon Tracking System (STS)** of the **Compressed Baryonic Matter (CBM)** experiment at FAIR, GSI Darmstadt.  
+My research bridges **detector development**, **simulation**, and **data analysis**, with a focus on precision silicon microstrip detectors for high-rate heavy-ion collisions.
 
-### Profile
+---
 
-Currently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter(CBM) experiment. 
-My work involves the optical inspection of the silicon sensor and the characterization of the sensor. 
-Further, I am doing the image processing of the silicon sensor which helps us to know and locate defects on sensor's surface such as implant break, open passivation, dust, damaged ac/dc pad etc.
+## 🔬 Research Focus
 
+- Silicon microstrip detector development and characterization  
+- Optical inspection and defect analysis of silicon sensors  
+- High-rate tracking detector performance for heavy-ion experiments  
+- Simulation–data comparison for detector validation  
 
-### Research & Data Analytics Expertise
+---
 
-- ROOT/TGeo-based simulation geometry development for the Silicon Tracking System (STS)  
-- Comparative studies: Primitive solids vs. Tessellated/CAD-derived geometry (runtime, secondaries, physics impact).  
-- Tracking-performance evaluation: Efficiency, Acceptance, Momentum resolution.  
-- Data rate studies in the 4-12 AGeV/c beam-momentum range for readout electronics Front-end-Boards (FEBs) assignment to the detector.  
-- STS physics simulations including hits reconstruction efficiency (dead-time / electronic threshold dependence), cluster characterization, and dE/dx.
+## 🧪 Detector & Simulation Expertise
 
-### Software Skills
+- **STS geometry development** using ROOT/TGeo  
+- CAD-based vs. primitive-solid geometry comparison  
+  *(performance, secondary production, physics impact)*  
+- Tracking performance studies:
+  - Efficiency & acceptance  
+  - Momentum resolution  
+- Data-rate and occupancy studies (4–12 AGeV/c beam momenta)  
+- Hit reconstruction, cluster properties, and **dE/dx** analysis  
+- Electronics effects: dead time, thresholds, and readout constraints  
 
-- **C++** 
-- **Python** 
-- **CERN-ROOT** 
-- **GEANT4** 
-- **Git** 
+---
 
-### Operating System
-- **Linux** 
-- **Windows**
+## 💻 Software & Technical Skills
 
+**Programming & Analysis**
+- C++ · Python · CERN ROOT  
 
-### What I Work On
+**Simulation & Frameworks**
+- GEANT4 · CBMROOT · TGeo  
 
-- Designing reliable data analysis pipelines for large and complex datasets  
-- Validating simulations and experimental data through statistical analysis  
-- Building maintainable scientific software used by distributed research teams  
-- Applying physics-informed data analysis techniques to real-world problems
+**Tools & Workflow**
+- Git · CMake · Linux · CI/CD  
 
-# **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+**Operating Systems**
+- Linux · Windows  
 
-### Get Started
+---
+
+## 📊 What I Build
+
+- Scalable data-analysis pipelines for large simulation datasets  
+- Physics-driven validation workflows for detector studies  
+- Maintainable scientific software for collaborative environments  
+- Statistical analysis tools connecting simulation and experiment  
+
+---
+
+## 🚀 Resources
 
 - **Curriculum Vitae:** [PDF](My_CV/CV_M_Shiroya.pdf)  
-- **Publications:** [Complete list](publications.qmd) | [Selected papers](posts.qmd#category=paper)  
-- **GitHub:** [https://github.com/Mehul0111](https://github.com/Mehul0111)  
+- **Publications:**  
+  - [Complete list](publications.qmd)  
+  - [Selected papers](posts.qmd#category=paper)  
+- **GitHub:** [github.com/Mehul0111](https://github.com/Mehul0111)  
 - **Contact:** [Get in touch](contact.qmd)
 
+---
+
+*Open to collaborations in detector R&D, heavy-ion physics, and data-driven analysis.*
+
 :::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-
