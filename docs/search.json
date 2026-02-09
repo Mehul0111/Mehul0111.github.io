@@ -119,41 +119,6 @@
     "text": "Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics\nI work on the Silicon Tracking System (STS) for the Compressed Baryonic Matter (CBM) experiment at FAIR (GSI Darmstadt).\nMy research connects silicon detector characterization, simulation geometry, and high-rate tracking performance for heavy-ion collisions.\nQuick links:\n- CV: PDF\n- Publications: Complete list\n- Contact: contact"
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Mehulkumar Shiroya",
-    "section": "About Me",
-    "text": "About Me\n\nSilicon microstrip sensor optical inspection & defect mapping\n\nSensor characterization: implant break, open passivation, dust, pad damage\n\nImage processing workflows to locate and classify surface defects\n\nDetector R&D aligned with CBM high-rate environment\n\n\nGet in touch Download CV"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Mehulkumar Shiroya",
-    "section": "Education",
-    "text": "Education\n\n\nPh.D. (ongoing)\nInstitution: (Your institute/university)\nTopic: STS silicon microstrip detectors, geometry & performance studies\nLocation: Darmstadt, Germany\n\n\nM.Sc. / B.Sc.\nInstitution: (Your institute)\nFocus: Nuclear / particle physics, detector physics, data analysis\nYear: (Year)"
-  },
-  {
-    "objectID": "index.html#research-work",
-    "href": "index.html#research-work",
-    "title": "Mehulkumar Shiroya",
-    "section": "Research Work",
-    "text": "Research Work\n\n\nDetector & Simulation (CBM-STS)\n\nROOT/TGeo geometry development for STS\n\nPrimitive solids vs CAD/tessellated geometry comparison (runtime, secondaries, physics impact)\n\nTracking performance: efficiency, acceptance, momentum resolution\n\nData-rate studies (4–12 AGeV/c) for FEB assignment\n\nHits/cluster studies, thresholds, dead-time dependence, dE/dx\n\n\nSelected work Publications"
-  },
-  {
-    "objectID": "index.html#fellowships-awards",
-    "href": "index.html#fellowships-awards",
-    "title": "Mehulkumar Shiroya",
-    "section": "Fellowships & Awards",
-    "text": "Fellowships & Awards\n\n\n(Fellowship / Grant)\nRole: Applicant / Awardee\nYear: (YYYY)\nTopic: (1 line)\n\n\n(Travel grant / Scholarship)\nYear: (YYYY)\nEvent: (Conference / school)\n\n\n(Recognition / Award)\nYear: (YYYY)\nNotes: (short)"
-  },
-  {
-    "objectID": "index.html#current-news",
-    "href": "index.html#current-news",
-    "title": "Mehulkumar Shiroya",
-    "section": "Current News",
-    "text": "Current News\n\nAll News Group Funding Events"
-  },
-  {
     "objectID": "posts/paper-title/index.html#abstract",
     "href": "posts/paper-title/index.html#abstract",
     "title": "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies",
