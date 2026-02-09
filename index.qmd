@@ -1,7 +1,7 @@
 ---
 title: "Mehulkumar Shiroya PhD"
 description: "Ph.D Researcher"
-image: "files/images/om.jpg"
+image: "Profile_Photo/my_photo.jpeg"
 page-navigation: false
 toc: false
 #sidebar: false
