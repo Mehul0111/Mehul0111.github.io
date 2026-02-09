@@ -107,51 +107,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Mehulkumar Shiroya",
+    "title": "Omveer Singh, PhD",
     "section": "",
-    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     ORCID\n  \n\n  \n  \n\n\nPh.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics\nI work on the Silicon Tracking System (STS) for the Compressed Baryonic Matter (CBM) experiment at FAIR (GSI Darmstadt).\nMy research connects silicon detector characterization, simulation geometry, and high-rate tracking performance for heavy-ion collisions.\nQuick links:\n- CV: PDF\n- Publications: Complete list\n- Contact: contact\n::: :::\n::: :::"
-  },
-  {
-    "objectID": "index.html#mehulkumar-shiroya",
-    "href": "index.html#mehulkumar-shiroya",
-    "title": "Mehulkumar Shiroya",
-    "section": "",
-    "text": "Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics\nI work on the Silicon Tracking System (STS) for the Compressed Baryonic Matter (CBM) experiment at FAIR (GSI Darmstadt).\nMy research connects silicon detector characterization, simulation geometry, and high-rate tracking performance for heavy-ion collisions.\nQuick links:\n- CV: PDF\n- Publications: Complete list\n- Contact: contact"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Mehulkumar Shiroya",
-    "section": "About",
-    "text": "About"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Mehulkumar Shiroya",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "index.html#research",
-    "href": "index.html#research",
-    "title": "Mehulkumar Shiroya",
-    "section": "Research",
-    "text": "Research"
-  },
-  {
-    "objectID": "index.html#awards-scholarships-and-grants",
-    "href": "index.html#awards-scholarships-and-grants",
-    "title": "Mehulkumar Shiroya",
-    "section": "Awards, Scholarshipsand Grants",
-    "text": "Awards, Scholarshipsand Grants"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Mehulkumar Shiroya",
-    "section": "News",
-    "text": "News"
+    "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\nProfile\nI am a researcher and scientific software engineer with 8+ years of experience working with large-scale scientific data, detector simulations, and reproducible analysis pipelines.\nI specialize in transforming complex datasets into reliable, actionable insights through well-engineered workflows, developed within international collaborations such as CBM/FAIR, GSI Helmholtz Centre, and Goethe University Frankfurt.\n\n\nResearch & Data Analytics Expertise\n\nData analysis, exploratory statistics, and modeling using Python (pandas, NumPy, SciPy) and ROOT\n\nQuerying and analyzing structured datasets using SQL\n\nData cleaning, transformation, and validation across heterogeneous data sources\n\nScientific software development in C++ and Python\n\nReproducible workflows, CMake-based builds, CI/CD, and automated testing\n\nData visualization and reporting for clear technical and non-technical communication\n\n\n\nWhat I Work On\n\nDesigning reliable data analysis pipelines for large and complex datasets\n\nValidating simulations and experimental data through statistical analysis\n\nBuilding maintainable scientific software used by distributed research teams\n\nApplying physics-informed data analysis techniques to real-world problems\n\nTech stack: Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD\n\n\nGet Started\n\nCurriculum Vitae: PDF\n\nPublications: Complete list | Selected papers\n\nGitHub: https://github.com/Om4143\n\nContact: Get in touch"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
