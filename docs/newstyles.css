@@ -232,3 +232,41 @@ h1, h2, h3 {
   font-family: "Times New Roman", Times, serif !important;
   font-size: 0.95rem;
 }
+
+/* =========================
+   HERO ICONS (BIG & COLORED)
+   ========================= */
+
+/* Container spacing */
+.quarto-about-trestles .about-links {
+  gap: 1.2rem;
+}
+
+/* Base icon size */
+.quarto-about-trestles .about-links a i {
+  font-size: 2.1rem;     /* BIG icons */
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+/* Hover effect */
+.quarto-about-trestles .about-links a:hover i {
+  transform: scale(1.12);
+  opacity: 0.85;
+}
+
+/* Individual brand colors */
+.quarto-about-trestles .about-links a[href*="mailto"] i {
+  color: #d946ef;  /* Email – purple */
+}
+
+.quarto-about-trestles .about-links a[href*="linkedin"] i {
+  color: #0a66c2;  /* LinkedIn blue */
+}
+
+.quarto-about-trestles .about-links a[href*="github"] i {
+  color: #111827;  /* GitHub black */
+}
+
+.quarto-about-trestles .about-links a[href*="orcid"] i {
+  color: #a6ce39;  /* Official ORCID green */
+}

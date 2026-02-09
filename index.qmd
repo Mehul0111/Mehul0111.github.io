@@ -19,13 +19,20 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:mehul0113@gmail.com
+
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
       target: _blank
+
     - icon: github
       text: GitHub
       href: https://github.com/Mehul0111
+      target: _blank
+
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-5856-1113
       target: _blank
 ---
 
