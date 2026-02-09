@@ -91,14 +91,15 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 
 ### Software Skills
 
-· **C++** 
-· **Python**
-· **CERN-ROOT**
-· **GEANT4** 
-· **Git**
+- **C++** 
+- **Python** 
+- **CERN-ROOT** 
+- **GEANT4** 
+- **Git** 
 
 ### Operating System
-· **Linux**
+- **Linux** 
+- **Windows**
 
 
 ### What I Work On
