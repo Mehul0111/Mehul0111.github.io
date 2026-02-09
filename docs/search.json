@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "professional.html",
-    "href": "professional.html",
-    "title": "Omveer Singh",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "What’s New & Updated",
     "section": "",
-    "text": "Certifications\nProcess Data from Dirty to Clean\nGoogle · Feb 2026\n🧹 Data cleaning · 📊 Data quality · 🧮 Spreadsheets · SQL\nView credential\nPrepare Data for Exploration\nGoogle · Dec 2025\n🔍 Data preparation · 📊 Exploratory analysis · Data validation\nView credential\nAsk Questions to Make Data-Driven Decisions\nGoogle · Nov 2025\n📈 Data-driven decision making · 📋 Business analysis · Data presentation\nView credential\nFoundations: Data, Data, Everywhere\nGoogle · Oct 2025\n📊 Data analysis fundamentals · Analytical thinking\nView credential\nDatabases and SQL for Data Science with Python\nIBM · Jun 2025\n🗄️ SQL · Relational databases · Python data access\nView credential\nSupervised Machine Learning: Regression and Classification\nStanford University · May 2025\n🤖 Supervised learning · Regression · Classification\nView credential\nPython A-Z™: Python for Data Science With Real Exercises!\nUdemy · May 2025\n🐍 Python · Data analytics · Data science workflows\nView credential\nR Programming A-Z™: R for Data Science With Real Exercises!\nUdemy · Jun 2025\n📊 R · Statistical analysis · Data science\nView credential"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#team",
-    "href": "people.html#team",
-    "title": "People",
-    "section": "",
-    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people.html#alumni",
-    "href": "people.html#alumni",
-    "title": "People",
-    "section": "Alumni",
-    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies\n\n\nThe European Physical Journal A\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nApr 29, 2023\n\n\nOmveer Singh, Anjali Sharma, Nazeer Ahmad\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -56,27 +35,6 @@
     "text": "Reports & Technical Notes\n\n\n[1] O. Singh, S. Chatterjee, P. P. Bhaduri, and S. Chattopadhyay, “Implementation and performance simulation of realistic design of the GEM chambers for the first two stations of MuCh,” GSI Helmholtzzentrum für Schwerionenforschung, CBM Progress Report 2020, 2021. doi: 10.15120/GSI-2021-00421.\n\n\n[2] S. Chatterjee, O. Singh, A. Senger, P. P. Bhaduri, and S. Chattopadhyay, “Reconstruction of j/\\(\\psi\\) mesons at SIS100 energies with realistic MuCh set up,” GSI Helmholtzzentrum für Schwerionenforschung, CBM Progress Report 2019, 2020. doi: 10.15120/GSI-2020-009041.\n\n\n[3] O. Singh, S. Chatterjee, P. P. Bhaduri, S. Chattopadhyay, A. Senger, and T. Galatyuk, “Reconstruction of \\(\\omega\\) mesons at SIS100 with realistic MuCh set up,” GSI Helmholtzzentrum für Schwerionenforschung, CBM Progress Report 2019, 2020. doi: 10.15120/GSI-2020-00904.\n\n\n[4] S. Chatterjee, O. Singh, P. P. Bhaduri, S. Chattopadhyay, and V. Nikulin, “Effect of gaps on the fifth absorber of muon chamber (MuCh) for the CBM experiment at FAIR,” GSI Helmholtzzentrum für Schwerionenforschung, CBM Progress Report 2019, 2020. doi: 10.15120/GSI-2020-00904.\n\n\n[5] S. Chatterjee, O. Singh, P. P. Bhaduri, S. Chattopadhyay, A. Senger, and V. Nikulin, “Effect of absorbers surface tolerance on the muon chamber (MuCh) performance for the CBM experiment at FAIR,” GSI Helmholtzzentrum für Schwerionenforschung, CBM Progress Report 2019, 2020. doi: 10.15120/GSI-2020-00904.\n\n\n[6] O. Singh et al., “Evolution of first absorber in muon chamber,” CBM Collaboration, CBM Progress Report 2019, 2020. doi: 10.15120/GSI-2020-00904.\n\n\n[7] E. Nandy, O. Singh, V. Singhal, Z. Ahammed, P. P. Bhaduri, and S. Chattopadhyay, “Optimization of RPC detector segmentation and charge threshold in 3rd and 4th MUCH station,” CBM Collaboration, CBM Progress Report 2019, 2020. doi: 10.15120/GSI-2020-00904.\n\n\n[8] E. Nandy, O. Singh, V. Singhal, Z. Ahammed, P. P. Bhaduri, and S. Chattopadhyay, “Implementation of RPC geometry and digitization in the 3rd and 4th MUCH station,” CBM Collaboration, CBM Progress Report 2018, 2019. doi: 10.15120/GSI-2019-01018.\n\n\n[9] O. Singh, P. Bhaduri, E. Nandy, S. Chattopadhyay, and N. Ahmad, “Realistic muon chamber (MuCh) geometry simulation for the CBM experiment at FAIR,” CBM Collaboration, CBM Progress Report 2018, 2019. doi: 10.15120/GSI-2019-01018.\n\n\n[10] S. Chattopadhyay et al., “Muon chamber developments for CBM,” GSI Helmholtzzentrum, GSI-FAIR Scientific Report 2017, 2018. doi: 10.15120/GR-2018-1.\n\n\n[11] O. Singh, P. Bhaduri, E. Nandy, S. Chattopadhyay, and N. Ahmad, “First results of mMUCH simulation for the mCBM full system setup at SIS18,” CBM Collaboration, CBM Progress Report 2017, 2018. doi: 10.15120/GSI-2018-00485.\n\n\n[12] O. Singh, P. Bhaduri, D. Emschermann, V. Singhal, S. Chattopadhyay, and N. Ahmad, “Description of the CBM-MUCH geometry in CbmRoot,” CBM Collaboration, CBM Progress Report 2017, 2018. doi: 10.15120/GSI-2018-00485.\n\n\n[13] E. Nandy, Z. Ahmed, O. Singh, and S. Chattopadhyay, “Implementation of RPC geometry for the 3rd and 4th station of CBM-MUCH,” CBM Collaboration, CBM Progress Report 2017, 2018. doi: 10.15120/GSI-2018-00485.\n\n\n[14] O. Singh et al., “Modelling of simulation geometries using tessellated shapes with the vectorized geometry (VecGeom) package,” CBM Collaboration, CBM Progress Report 2023, 2024. doi: 10.15120/GSI-2024-00765.\n\n\n[15] C. Blume, P. Kahler, A. Meyer-Ahrens, O. Singh, and L. Wahmes, “Towards an optimized TRD geometry,” CBM Collaboration, CBM Progress Report 2023, 2024. doi: 10.15120/GSI-2024-00765.\n\n\n[16] O. Singh and F. Uhlig, “Transition to a modern CMake-based build system for CbmRoot,” CBM Collaboration, CBM Progress Report 2022, 2023. doi: 10.15120/GSI-2023-00384.\n\n\n[17] M. A. Aman, S. Chattopadhyay, P. P. Bhaduri, and O. Singh, “Optimization of the muon chamber (MuCh) for the CBM experiment at FAIR,” CBM Collaboration, CBM Progress Report 2022, 2023. doi: 10.15120/GSI-2023-00384.\n\n\n[18] S. Chatterjee, P. P. Bhaduri, O. Singh, V. Nikulin, and S. Chattopadhyay, “Non-monolithic design of the 5th MuCh absorber parameters and tolerances.” Sep. 2020.\n\n\n[19] O. Singh, E. Nandy, P. P. Bhaduri, D. Emschermann, V. Singhal, and S. Chattopadhyay, “Implementation of muon chamber (MuCh) geometries in the CbmRoot software.” Jul. 2019."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/paper-title/index.html#abstract",
-    "href": "posts/paper-title/index.html#abstract",
-    "title": "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies",
-    "section": "Abstract",
-    "text": "Abstract\nIn this paper, we present comprehensive results on intermittency using the Scaled Factorial Moment (SFM) technique in Au + Au collisions in the FAIR energy range of 2–12A GeV in pseudorapidity , azimuthal, and pseudorapidity-azimuthal spaces. The simulations are performed with a hybrid version of the Ultra-relativistic Quantum Molecular Dynamics (UrQMD) event generator. Three alternative equations of state (EoS) are employed to investigate the intermittency within the hydrodynamic scenario, namely pure Hadron Gas (HG), Chiral + HG, and Bag Model EoS. In both one and two-dimensional spaces and at all beam energies, a weak intermittent type of emission has been seen for Chiral+HG EoS. In contrast, a strong intermittent kind of emission is observed for Bag Model EoS. The incident beam energy dependency of intermittency has also been investigated. The strength of the intermittency is seen to diminish with increasing beam energy."
-  },
-  {
-    "objectID": "posts/paper-title/index.html#links",
-    "href": "posts/paper-title/index.html#links",
-    "title": "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies",
-    "section": "Links",
-    "text": "Links\nPublished paper"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -105,11 +63,46 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#team",
+    "href": "people.html#team",
+    "title": "People",
+    "section": "",
+    "text": "PhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nMasters Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nUndergraduate Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nPI\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
     "text": "Get in touch\n\n\n\n📍\n\n\n\nAddress\n\n\nMathildenstrasse, 39Darmstadt, 64285Germany\n\n\n\n\n\n📞\n\n\n\nPhone\n\n\n+49 151 61018091\n\n\n\n\n\n✉️\n\n\n\nEmail\n\n\nomvir.ch@gmail.com"
+  },
+  {
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "Omveer Singh",
+    "section": "",
+    "text": "Certifications\nProcess Data from Dirty to Clean\nGoogle · Feb 2026\n🧹 Data cleaning · 📊 Data quality · 🧮 Spreadsheets · SQL\nView credential\nPrepare Data for Exploration\nGoogle · Dec 2025\n🔍 Data preparation · 📊 Exploratory analysis · Data validation\nView credential\nAsk Questions to Make Data-Driven Decisions\nGoogle · Nov 2025\n📈 Data-driven decision making · 📋 Business analysis · Data presentation\nView credential\nFoundations: Data, Data, Everywhere\nGoogle · Oct 2025\n📊 Data analysis fundamentals · Analytical thinking\nView credential\nDatabases and SQL for Data Science with Python\nIBM · Jun 2025\n🗄️ SQL · Relational databases · Python data access\nView credential\nSupervised Machine Learning: Regression and Classification\nStanford University · May 2025\n🤖 Supervised learning · Regression · Classification\nView credential\nPython A-Z™: Python for Data Science With Real Exercises!\nUdemy · May 2025\n🐍 Python · Data analytics · Data science workflows\nView credential\nR Programming A-Z™: R for Data Science With Real Exercises!\nUdemy · Jun 2025\n📊 R · Statistical analysis · Data science\nView credential"
   },
   {
     "objectID": "index.html",
@@ -119,10 +112,17 @@
     "text": "E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \n\nProfile\nI am a researcher and scientific software engineer with 8+ years of experience working with large-scale scientific data, detector simulations, and reproducible analysis pipelines.\nI specialize in transforming complex datasets into reliable, actionable insights through well-engineered workflows, developed within international collaborations such as CBM/FAIR, GSI Helmholtz Centre, and Goethe University Frankfurt.\n\n\nResearch & Data Analytics Expertise\n\nData analysis, exploratory statistics, and modeling using Python (pandas, NumPy, SciPy) and ROOT\n\nQuerying and analyzing structured datasets using SQL\n\nData cleaning, transformation, and validation across heterogeneous data sources\n\nScientific software development in C++ and Python\n\nReproducible workflows, CMake-based builds, CI/CD, and automated testing\n\nData visualization and reporting for clear technical and non-technical communication\n\n\n\nWhat I Work On\n\nDesigning reliable data analysis pipelines for large and complex datasets\n\nValidating simulations and experimental data through statistical analysis\n\nBuilding maintainable scientific software used by distributed research teams\n\nApplying physics-informed data analysis techniques to real-world problems\n\nTech stack: Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD\n\n\nGet Started\n\nCurriculum Vitae: PDF\n\nPublications: Complete list | Selected papers\n\nGitHub: https://github.com/Om4143\n\nContact: Get in touch"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "What’s New & Updated",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIntermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies\n\n\nThe European Physical Journal A\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nApr 29, 2023\n\n\nOmveer Singh, Anjali Sharma, Nazeer Ahmad\n\n\n\n\n\nNo matching items"
+    "objectID": "posts/paper-title/index.html#abstract",
+    "href": "posts/paper-title/index.html#abstract",
+    "title": "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies",
+    "section": "Abstract",
+    "text": "Abstract\nIn this paper, we present comprehensive results on intermittency using the Scaled Factorial Moment (SFM) technique in Au + Au collisions in the FAIR energy range of 2–12A GeV in pseudorapidity , azimuthal, and pseudorapidity-azimuthal spaces. The simulations are performed with a hybrid version of the Ultra-relativistic Quantum Molecular Dynamics (UrQMD) event generator. Three alternative equations of state (EoS) are employed to investigate the intermittency within the hydrodynamic scenario, namely pure Hadron Gas (HG), Chiral + HG, and Bag Model EoS. In both one and two-dimensional spaces and at all beam energies, a weak intermittent type of emission has been seen for Chiral+HG EoS. In contrast, a strong intermittent kind of emission is observed for Bag Model EoS. The incident beam energy dependency of intermittency has also been investigated. The strength of the intermittency is seen to diminish with increasing beam energy."
+  },
+  {
+    "objectID": "posts/paper-title/index.html#links",
+    "href": "posts/paper-title/index.html#links",
+    "title": "Intermittency analysis in relativistic hydrodynamic simulations of heavy-ion collision at FAIR energies",
+    "section": "Links",
+    "text": "Links\nPublished paper"
   }
 ]
