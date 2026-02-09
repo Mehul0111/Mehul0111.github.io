@@ -22,50 +22,34 @@ page-navigation: false
 ::: {.stack-panels}
 
 ::: {.hpanel .hp-profile}
-## Current Status
+## Current Status {.hp-title}
+CBM-STS · Silicon sensor inspection · Image processing {.hp-sub}
 
-- Ph.D researcher working on the **Silicon Microstrip Detector** for the  
-  **Compressed Baryonic Matter (CBM)** experiment at FAIR (GSI Darmstadt).
-
-- Expertise in:
-  - Optical inspection and sensor characterization  
-  - Image-processing methods for defect detection  
-  - Identification of implant breaks, open passivation, dust contamination,  
-    and damaged AC/DC pads
-
-- Experience in large-scale data analysis within international collaborations.
-
+- Ph.D researcher working on the silicon microstrip detector for the **CBM** experiment.
+- Optical inspection and sensor characterization
+- Image-processing methods to locate defects (implant breaks, open passivation, dust, damaged AC/DC pads)
 :::
 
 ::: {.hpanel .hp-edu}
-## Education
+## Education {.hp-title}
+Ph.D · M.Sc · B.Sc {.hp-sub}
 
-- **2021 – Present**  
-  **Ph.D. in Physics**  
-  FAIR / GSI Darmstadt — CBM Collaboration
-
-- **2019 – 2021**  
-  **M.Sc. in Physics**  
-  *(University name)*
-
-- **2016 – 2019**  
-  **B.Sc. in Physics**  
-  *(University name)*
-
+- **2021–Present** — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)
+- **2019–2021** — M.Sc. in Physics, *(University name)*
+- **2016–2019** — B.Sc. in Physics, *(University name)*
 :::
 
 ::: {.hpanel .hp-soft}
-## Software & Technical Skills
+## Software & Technical Skills {.hp-title}
+C++ · Python · ROOT · GEANT4 · Git {.hp-sub}
 
-- **Programming:** C++, Python  
-- **Scientific Tools:** CERN ROOT, GEANT4  
-- **Data & Analysis:** NumPy, pandas, SciPy  
-- **Development:** Git, CMake, CI/CD  
-- **Platforms:** Linux, Windows  
+- **Programming:** C++, Python
+- **Scientific Tools:** CERN ROOT, GEANT4
+- **Data & Analysis:** NumPy, pandas, SciPy
+- **Development:** Git, CMake, CI/CD
+- **Platforms:** Linux, Windows
 
-**Tech stack:**  
-Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
-
+**Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
 :::
 
 :::
