@@ -25,12 +25,11 @@ Ph.D Student {.hero-role}
 
 ::: {.hpanel .hp-profile}
 ## Profile {.hp-title}
-CBM-STS · Silicon sensor inspection · Image processing {.hp-sub}
+CBM-STS · Silicon sensor inspection · Image processing
 
-Currently, I am working on the silicon microstrip detector for the **Compressed Baryonic Matter (CBM)** experiment.  
+- Currently, I am working on the silicon microstrip detector for the **Compressed Baryonic Matter (CBM)** experiment.  
 My work involves optical inspection and characterization of silicon sensors. I also develop image-processing methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.
 
-I specialize in transforming complex datasets into **reliable, actionable insights** through reproducible workflows developed within international collaborations such as **CBM/FAIR**, **GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 :::
 
 ::: {.hpanel .hp-edu}
@@ -46,12 +45,6 @@ Ph.D · M.Sc · B.Sc {.hp-sub}
 ## Software Skills {.hp-title}
 C++ · Python · ROOT · GEANT4 · Git {.hp-sub}
 
-- **C++** — scientific software development  
-- **Python** — pandas, NumPy, SciPy  
-- **CERN ROOT**  
-- **GEANT4**  
-- **Git** — reproducible workflows  
-- **Linux / Windows**
 
 **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
 :::
