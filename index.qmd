@@ -1,125 +1,205 @@
 ---
-title: "Mehulkumar Shiroya PhD"
-description: "Ph.D Researcher"
+title: "Mehulkumar Shiroya"
+description: "Ph.D. Researcher | CBM-STS | FAIR (GSI Darmstadt)"
 image: "Profile_Photo/my_photo.jpeg"
 page-navigation: false
 toc: false
-#sidebar: false
 page-layout: full
+format:
+  html:
+    theme: cosmo
+    css: newstyles.css
+    smooth-scroll: true
 
 about:
-  id: hero-heading
+  id: hero
   template: trestles
-  image-width: 70%
+  image-width: 65%
   links:
-    #- icon: sun
-    #  text: Lab
-    #  href: https://github.com/Mehul0111
-   #   target: _blank
-   # - icon: globe
-   #   text: Uprofile
-   #   href: https://baruch.cuny.edu
-   #   target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:mehul0113@gmail.com    
+      href: mailto:mehul0113@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
       target: _blank
-  #  - icon: youtube
-  #    text: YouTube
-   #   href: https://www.youtube.com     
-   #   target: _blank 
-   # - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-   #   href: https://orcid.org
-   #   target: _blank
-   # - text: "{{< ai clarivate >}} Web of Science"
-   #   href: https://www.webofscience.com  
-    #  target: _blank
-   # - text: "{{< ai scopus >}} Scopus"
-   #   href: https://www.scopus.com
-   #   target: _blank
-   # - text: "{{< ai google-scholar >}} Google Scholar"
-   #   href: https://scholar.google.com
-    #  target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
-
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
- # - id: recent-posts
- #   contents: 
- #     - posts
- #     - posts/post-links.yml
-  #E  exclude:
-  #    title: ""
-   # type: grid
-   # max-items: 3
-#    image-height: 150px
-   # page-size: 3 #set same as max-times to remove the page number setting
-   # fields: [image, date, title, subtitle]
-   # max-description-length: 75
-   # sort: 
-   #   - "date desc"
-   #   - "title asc"
+    - icon: github
+      text: GitHub
+      href: https://github.com/Mehul0111
+      target: _blank
+    - icon: ai orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-5856-1113
+      target: _blank
 ---
 
-:::{#hero-heading}
+:::{#hero}
+## Mehulkumar Shiroya  
+**Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics**
 
+I work on the **Silicon Tracking System (STS)** for the **Compressed Baryonic Matter (CBM)** experiment at FAIR (GSI Darmstadt).  
+My research connects **silicon detector characterization**, **simulation geometry**, and **high-rate tracking performance** for heavy-ion collisions.
 
-
-### Profile
-
-Currently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter(CBM) experiment. 
-My work involves the optical inspection of the silicon sensor and the characterization of the sensor. 
-Further, I am doing the image processing of the silicon sensor which helps us to know and locate defects on sensor's surface such as implant break, open passivation, dust, damaged ac/dc pad etc.
-
-I specialize in transforming complex datasets into **reliable, actionable insights** through
-well-engineered workflows, developed within international collaborations such as **CBM/FAIR,
-GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
-
-
-### Research & Data Analytics Expertise
-
-- Data analysis, exploratory statistics, and modeling using **Python** (pandas, NumPy, SciPy) and ROOT  
-- Querying and analyzing structured datasets using **SQL**  
-- Data cleaning, transformation, and validation across heterogeneous data sources  
-- Scientific software development in **C++ and Python**  
-- Reproducible workflows, **CMake-based builds**, CI/CD, and automated testing  
-- Data visualization and reporting for clear technical and non-technical communication
-
-### Software Skills
-
-- **C++** 
-- **Python** 
-- **CERN-ROOT** 
-- **GEANT4** 
-- **Git** 
-
-### Operating System
-- **Linux** 
-- **Windows**
-
-
-### What I Work On
-
-- Designing reliable data analysis pipelines for large and complex datasets  
-- Validating simulations and experimental data through statistical analysis  
-- Building maintainable scientific software used by distributed research teams  
-- Applying physics-informed data analysis techniques to real-world problems
-
-**Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
-
-### Get Started
-
-- **Curriculum Vitae:** [PDF](files/Curriculum_Vitae_OSingh.pdf)  
-- **Publications:** [Complete list](publications.qmd) | [Selected papers](posts.qmd#category=paper)  
-- **GitHub:** [https://github.com/Mehul0111](https://github.com/Mehul0111)  
-- **Contact:** [Get in touch](contact.qmd)
-
+**Quick links:**  
+- **CV:** [PDF](My_CV/CV_M_Shiroya.pdf)  
+- **Publications:** [Complete list](publications.qmd)  
+- **Contact:** [contact](contact.qmd)
 :::
 
+---
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
+:::{.split-section .split-white #about}
+:::{.split-wrap}
 
+:::{.split-title}
+## About
+:::
+
+:::{.split-body}
+:::{.about-grid}
+
+:::{.about-text}
+I work on the **Silicon Tracking System (STS)** for the **CBM** experiment at FAIR (GSI Darmstadt).  
+My work focuses on silicon sensor inspection and detector performance in a high-rate environment.
+
+- Silicon microstrip sensor **optical inspection** & defect mapping  
+- Sensor characterization: implant break, open passivation, dust, pad damage  
+- Image processing workflows to locate and classify surface defects  
+- Detector R&D aligned with CBM high-rate environment  
+
+:::{.cta-row}
+[Curriculum Vitae](My_CV/CV_M_Shiroya.pdf){.btnx .btn-outline}
+:::
+:::
+
+:::{.about-photo}
+![](Profile_Photo/my_photo.jpeg){fig-alt="Mehulkumar Shiroya"}
+:::
+
+:::
+:::
+:::
+:::
+
+---
+
+:::{.split-section .split-sand #education}
+:::{.split-wrap}
+
+:::{.split-title}
+## Education
+:::
+
+:::{.split-body}
+:::{.timeline}
+
+:::{.t-item}
+:::{.t-years}
+2021 – Present
+:::
+:::{.t-content}
+**Ph.D. (ongoing)**  
+**Institution:** (Your institute/university)  
+**Topic:** STS silicon microstrip detectors, geometry & performance studies  
+**Location:** Darmstadt, Germany
+:::
+:::
+
+:::{.t-item}
+:::{.t-years}
+2018 – 2020
+:::
+:::{.t-content}
+**M.Sc.**  
+**Institution:** (Your institute)  
+**Focus:** Nuclear / particle physics, detector physics, data analysis  
+**Location:** (City, Country)
+:::
+:::
+
+:::{.t-item}
+:::{.t-years}
+2015 – 2018
+:::
+:::{.t-content}
+**B.Sc.**  
+**Institution:** (Your institute)  
+**Focus:** Physics, data analysis  
+**Location:** (City, Country)
+:::
+:::
+
+:::
+:::
+:::
+:::
+
+---
+
+:::{.split-section .split-white #research}
+:::{.split-wrap}
+
+:::{.split-title}
+## Research
+:::
+
+:::{.split-body}
+### Detector & Simulation (CBM-STS)
+
+- ROOT/TGeo **geometry development** for STS  
+- Primitive solids vs **CAD/tessellated** geometry comparison *(runtime, secondaries, physics impact)*  
+- Tracking performance: efficiency, acceptance, momentum resolution  
+- Data-rate studies (4–12 AGeV/c) for FEB assignment  
+- Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
+:::
+
+:::
+:::
+:::
+:::
+
+---
+
+:::{.split-section .split-sand #awards}
+:::{.split-wrap}
+
+:::{.split-title}
+## Awards, Scholarships<br>and Grants
+:::
+
+:::{.split-body}
+- (Fellowship / Grant) — (Year) — (Topic)  
+- (Travel grant / Scholarship) — (Year) — (Event)  
+- (Recognition / Award) — (Year) — (Notes)
+:::
+
+:::
+:::
+:::
+:::
+
+---
+
+:::{.split-section .split-white #news}
+:::{.split-wrap}
+
+:::{.split-title}
+## News
+:::
+
+:::{.split-body}
+:::{.news-toolbar}
+[All News](posts.qmd){.chip}
+[Group](posts.qmd#category=group){.chip}
+[Funding](posts.qmd#category=funding){.chip}
+[Events](posts.qmd#category=events){.chip}
+:::
+
+```{listing}
+contents: posts
+type: grid
+sort:
+  - "date desc"
+max-items: 4
+image-height: 170px
+fields: [image, date, title, description]
