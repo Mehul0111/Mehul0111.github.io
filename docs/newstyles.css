@@ -1,0 +1,92 @@
+
+✅ This is now fully consistent:
+- No unclosed `<div>`
+- No unclosed `:::` blocks  
+- News uses a real Quarto listing grid
+
+---
+
+## ✅ `styles.css` (put in your repo root)
+
+```css
+/* --- Full-width section bands --- */
+.section-band{
+  width: 100%;
+  padding: 3.5rem 0;
+}
+
+.band-inner{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.band-dark{
+  background: #0c1f6b;
+  color: #fff;
+}
+
+.band-light{
+  background: #ffffff;
+  color: #111;
+}
+
+/* --- Cards --- */
+.cardx{
+  background: #ffffff;
+  color: #111;
+  border-radius: 14px;
+  padding: 1.25rem 1.25rem;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+}
+
+.cardx-dark{
+  background: rgba(255,255,255,0.07);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.18);
+  box-shadow: none;
+}
+
+.img-card img{
+  border-radius: 14px;
+}
+
+/* --- Grid helpers --- */
+.grid{
+  display: grid;
+  gap: 1.25rem;
+}
+
+.grid-2{
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.grid-3{
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.vcenter{
+  align-items: center;
+}
+
+@media (max-width: 900px){
+  .grid-2, .grid-3{
+    grid-template-columns: 1fr;
+  }
+}
+
+/* --- Buttons in bands --- */
+.cta-row{
+  display: flex;
+  gap: .75rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+/* --- News toolbar --- */
+.news-toolbar{
+  display: flex;
+  gap: .75rem;
+  flex-wrap: wrap;
+  margin-top: .75rem;
+}

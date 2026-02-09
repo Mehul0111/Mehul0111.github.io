@@ -8,7 +8,7 @@ page-layout: full
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: newstyles.css
     smooth-scroll: true
 
 about:
@@ -29,9 +29,7 @@ about:
       target: _blank
 ---
 
-
 :::{#hero}
-
 ## Mehulkumar Shiroya  
 **Ph.D. Researcher | Silicon Tracking Detectors | Heavy-Ion Physics**
 
@@ -42,7 +40,6 @@ My research connects **silicon detector characterization**, **simulation geometr
 - **CV:** [PDF](My_CV/CV_M_Shiroya.pdf)  
 - **Publications:** [Complete list](publications.qmd)  
 - **Contact:** [contact](contact.qmd)
-
 :::
 
 ---
@@ -55,11 +52,11 @@ My research connects **silicon detector characterization**, **simulation geometr
 - Silicon microstrip sensor **optical inspection** & defect mapping  
 - Sensor characterization: implant break, open passivation, dust, pad damage  
 - Image processing workflows to locate and classify surface defects  
-- Detector R&D aligned with CBM high-rate environment
+- Detector R&D aligned with CBM high-rate environment  
 
 <div class="cta-row">
-<a class="btn btn-outline-light" href="contact.qmd">Get in touch</a>
-<a class="btn btn-light" href="My_CV/CV_M_Shiroya.pdf">Download CV</a>
+  <a class="btn btn-outline-light" href="contact.qmd">Get in touch</a>
+  <a class="btn btn-light" href="My_CV/CV_M_Shiroya.pdf">Download CV</a>
 </div>
 
 </div>
@@ -103,15 +100,14 @@ My research connects **silicon detector characterization**, **simulation geometr
 ### Detector & Simulation (CBM-STS)
 
 - ROOT/TGeo **geometry development** for STS  
-- Primitive solids vs **CAD/tessellated** geometry comparison  
-  *(runtime, secondaries, physics impact)*  
+- Primitive solids vs **CAD/tessellated** geometry comparison *(runtime, secondaries, physics impact)*  
 - Tracking performance: efficiency, acceptance, momentum resolution  
 - Data-rate studies (4–12 AGeV/c) for FEB assignment  
 - Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
 
 <div class="cta-row">
-<a class="btn btn-outline-light" href="posts.qmd#category=paper">Selected work</a>
-<a class="btn btn-light" href="publications.qmd">Publications</a>
+  <a class="btn btn-outline-light" href="posts.qmd#category=paper">Selected work</a>
+  <a class="btn btn-light" href="publications.qmd">Publications</a>
 </div>
 :::
 
@@ -161,21 +157,23 @@ My research connects **silicon detector characterization**, **simulation geometr
 
 ## Current News
 
-::: {.news-toolbar}
-<a class="btn btn-outline-light btn-sm" href="posts.qmd">All News</a>
-<a class="btn btn-outline-light btn-sm" href="posts.qmd#category=group">Group</a>
-<a class="btn btn-outline-light btn-sm" href="posts.qmd#category=funding">Funding</a>
-<a class="btn btn-outline-light btn-sm" href="posts.qmd#category=events">Events</a>
-:::
+<div class="news-toolbar">
+  <a class="btn btn-outline-light btn-sm" href="posts.qmd">All News</a>
+  <a class="btn btn-outline-light btn-sm" href="posts.qmd#category=group">Group</a>
+  <a class="btn btn-outline-light btn-sm" href="posts.qmd#category=funding">Funding</a>
+  <a class="btn btn-outline-light btn-sm" href="posts.qmd#category=events">Events</a>
+</div>
 
-::: {.listing}
-:::
+</div>
+</section>
 
-::: {.quarto-listing}
-:::
-
-::: {.quarto-listing-container}
-:::
-
-::: {.listing}
-:::
+:::{#home-news}
+```{listing}
+id: home-news-list
+contents: posts
+type: grid
+sort:
+  - "date desc"
+max-items: 4
+image-height: 160px
+fields: [image, date, title, description]
