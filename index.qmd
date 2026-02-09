@@ -109,11 +109,11 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 - Building maintainable scientific software used by distributed research teams  
 - Applying physics-informed data analysis techniques to real-world problems
 
-**Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+# **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
 
 ### Get Started
 
-- **Curriculum Vitae:** [PDF](files/Curriculum_Vitae_OSingh.pdf)  
+- **Curriculum Vitae:** [PDF](My_CV/CV_M_Shiroya.pdf)  
 - **Publications:** [Complete list](publications.qmd) | [Selected papers](posts.qmd#category=paper)  
 - **GitHub:** [https://github.com/Mehul0111](https://github.com/Mehul0111)  
 - **Contact:** [Get in touch](contact.qmd)
