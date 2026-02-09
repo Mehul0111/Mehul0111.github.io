@@ -151,7 +151,7 @@
     "href": "index.html#current-news",
     "title": "Mehulkumar Shiroya",
     "section": "Current News",
-    "text": "Current News\n\nAll News Group Funding Events\n\nid: home-news-list contents: posts type: grid sort: - “date desc” max-items: 4 image-height: 170px fields: [image, date, title, description]"
+    "text": "Current News\n\nAll News Group Funding Events\n\ncontents: posts type: grid sort: - “date desc” max-items: 4 image-height: 170px fields: [image, date, title, description]"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",

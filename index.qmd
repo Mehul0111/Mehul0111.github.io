@@ -10,6 +10,7 @@ format:
     theme: cosmo
     css: newstyles.css
     smooth-scroll: true
+
 about:
   id: hero
   template: trestles
@@ -54,8 +55,8 @@ My research connects **silicon detector characterization**, **simulation geometr
 - Detector R&D aligned with CBM high-rate environment  
 
 :::{.cta-row}
-[Get in touch](contact.qmd){.btn .btn-primary}
-[Download CV](My_CV/CV_M_Shiroya.pdf){.btn .btn-ghost}
+[Get in touch](contact.qmd){.btnx .btn-primary}
+[Download CV](My_CV/CV_M_Shiroya.pdf){.btnx .btn-ghost}
 :::
 :::
 
@@ -104,8 +105,8 @@ My research connects **silicon detector characterization**, **simulation geometr
 - Hits/cluster studies, thresholds, dead-time dependence, **dE/dx**
 
 :::{.cta-row}
-[Selected work](posts.qmd#category=paper){.btn .btn-light}
-[Publications](publications.qmd){.btn .btn-ghost-light}
+[Selected work](posts.qmd#category=paper){.btnx .btn-light}
+[Publications](publications.qmd){.btnx .btn-ghost-light}
 :::
 :::
 
@@ -161,7 +162,6 @@ My research connects **silicon detector characterization**, **simulation geometr
 :::
 
 ```{listing}
-id: home-news-list
 contents: posts
 type: grid
 sort:
