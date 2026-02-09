@@ -1,6 +1,4 @@
 ---
-# title: "Mehulkumar Shiroya"
-# description: "**Ph.D Student**"
 page-layout: full
 toc: false
 page-navigation: false
@@ -11,7 +9,7 @@ page-navigation: false
 ![](Profile_Photo/my_photo.jpeg){.hero-photo-img alt="Mehulkumar Shiroya"}
 
 # Mehulkumar Shiroya {.hero-name}
-Ph.D Student {.hero-role}
+*Ph.D Student*
 
 ::: {.hero-btns}
 [ E-mail ](mailto:mehul0113@gmail.com){.hbtn}
@@ -24,29 +22,50 @@ Ph.D Student {.hero-role}
 ::: {.stack-panels}
 
 ::: {.hpanel .hp-profile}
-## Profile {}
-CBM-STS · Silicon sensor inspection · Image processing
+## Current Status
 
-- Currently, I am working on the silicon microstrip detector for the **Compressed Baryonic Matter (CBM)** experiment.  
-My work involves optical inspection and characterization of silicon sensors. I also develop image-processing methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.
+- Ph.D researcher working on the **Silicon Microstrip Detector** for the  
+  **Compressed Baryonic Matter (CBM)** experiment at FAIR (GSI Darmstadt).
+
+- Expertise in:
+  - Optical inspection and sensor characterization  
+  - Image-processing methods for defect detection  
+  - Identification of implant breaks, open passivation, dust contamination,  
+    and damaged AC/DC pads
+
+- Experience in large-scale data analysis within international collaborations.
 
 :::
 
 ::: {.hpanel .hp-edu}
-## Education {}
-# Ph.D · M.Sc · B.Sc
+## Education
 
-- **2021–Now** — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)  
-- **2019–2021** — M.Sc. in Physics, *(your university)*  
-- **2016–2019** — B.Sc. in Physics, *(your university)*  
+- **2021 – Present**  
+  **Ph.D. in Physics**  
+  FAIR / GSI Darmstadt — CBM Collaboration
+
+- **2019 – 2021**  
+  **M.Sc. in Physics**  
+  *(University name)*
+
+- **2016 – 2019**  
+  **B.Sc. in Physics**  
+  *(University name)*
+
 :::
 
 ::: {.hpanel .hp-soft}
-## Software Skills {.hp-title}
-C++ · Python · ROOT · GEANT4 · Git 
+## Software & Technical Skills
 
+- **Programming:** C++, Python  
+- **Scientific Tools:** CERN ROOT, GEANT4  
+- **Data & Analysis:** NumPy, pandas, SciPy  
+- **Development:** Git, CMake, CI/CD  
+- **Platforms:** Linux, Windows  
 
-# **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+**Tech stack:**  
+Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+
 :::
 
 :::

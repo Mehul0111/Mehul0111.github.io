@@ -109,28 +109,28 @@
     "href": "index.html",
     "title": "Mehulkumar Shiroya",
     "section": "",
-    "text": "Ph.D Student {.hero-role}\n\nE-mail (mehul0113 at gmail dot com) LinkedIn GitHub"
+    "text": "Ph.D Student\n\nE-mail (mehul0113 at gmail dot com) LinkedIn GitHub"
   },
   {
-    "objectID": "index.html#profile",
-    "href": "index.html#profile",
+    "objectID": "index.html#current-status",
+    "href": "index.html#current-status",
     "title": "Mehulkumar Shiroya",
-    "section": "Profile",
-    "text": "Profile\nCBM-STS · Silicon sensor inspection · Image processing\n\nCurrently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter (CBM) experiment.\nMy work involves optical inspection and characterization of silicon sensors. I also develop image-processing methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads."
+    "section": "Current Status",
+    "text": "Current Status\n\nPh.D researcher working on the Silicon Microstrip Detector for the\nCompressed Baryonic Matter (CBM) experiment at FAIR (GSI Darmstadt).\nExpertise in:\n\nOptical inspection and sensor characterization\n\nImage-processing methods for defect detection\n\nIdentification of implant breaks, open passivation, dust contamination,\nand damaged AC/DC pads\n\nExperience in large-scale data analysis within international collaborations."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Mehulkumar Shiroya",
     "section": "Education",
-    "text": "Education"
+    "text": "Education\n\n2021 – Present\nPh.D. in Physics\nFAIR / GSI Darmstadt — CBM Collaboration\n2019 – 2021\nM.Sc. in Physics\n(University name)\n2016 – 2019\nB.Sc. in Physics\n(University name)"
   },
   {
-    "objectID": "index.html#software-skills",
-    "href": "index.html#software-skills",
+    "objectID": "index.html#software-technical-skills",
+    "href": "index.html#software-technical-skills",
     "title": "Mehulkumar Shiroya",
-    "section": "Software Skills",
-    "text": "Software Skills\nC++ · Python · ROOT · GEANT4 · Git"
+    "section": "Software & Technical Skills",
+    "text": "Software & Technical Skills\n\nProgramming: C++, Python\n\nScientific Tools: CERN ROOT, GEANT4\n\nData & Analysis: NumPy, pandas, SciPy\n\nDevelopment: Git, CMake, CI/CD\n\nPlatforms: Linux, Windows\n\nTech stack:\nPython · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",
