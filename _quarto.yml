@@ -2,18 +2,14 @@ project:
   type: website
   output-dir: docs
 
-# Meta
 description-meta: "Website Mehul"
 author-meta: "Dr. Mehulkumar Shiroya"
 
 website:
   title: "Mehulkumar Shiroya"
-  image: ""
-  description: ""
 
   navbar:
     background: light
-
     left:
       - text: About
         menu:
@@ -70,15 +66,6 @@ website:
   reader-mode: true
   draft-mode: unlinked
 
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
-  open-graph: true
-  twitter-card: true
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
-
-  google-analytics:
-    tracking-id: ""
-    anonymize-ip: true
-
 bibliography: references.bib
 
 format:
@@ -88,19 +75,7 @@ format:
       - styles.css
       - newstyles.css
     smooth-scroll: true
-    toc: true
-    footnotes-hover: true
-    code-copy: true
-    code-link: true
-    code-overflow: wrap
-    fig-align: center
-    link-external-icon: false
-    link-external-newwindow: true
-    email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
-    # Keep your existing include AND add bootstrap icons
     include-in-header:
-      - files/includes/_academic.qmd
       - text: |
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">

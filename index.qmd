@@ -1,23 +1,15 @@
 ---
 title: "Mehulkumar Shiroya"
 description: "Ph.D. Student"
-image: "Profile_Photo/my_photo.jpeg"
 page-navigation: false
 toc: false
 page-layout: full
-
-format:
-  html:
-    theme: cosmo
-    css: newstyles.css
-    smooth-scroll: true
 ---
 
-<!-- ============= HERO: split layout like screenshot ============= -->
+```{=html}
 <section class="hero-split" id="hero-split">
   <div class="hero-wrap">
 
-    <!-- LEFT CARD -->
     <aside class="hero-left">
       <div class="hero-card">
 
@@ -54,7 +46,6 @@ format:
       </div>
     </aside>
 
-    <!-- RIGHT CONTENT -->
     <main class="hero-right">
       <h1 class="hero-title">About me</h1>
 
@@ -82,7 +73,6 @@ format:
   </div>
 </section>
 
-<!-- ============= EDUCATION ============= -->
 <section class="split-section split-dark">
   <div class="split-wrap">
     <div class="split-title">
@@ -90,13 +80,13 @@ format:
     </div>
 
     <div class="split-body">
-
       <div class="timeline">
+
         <div class="t-item">
           <div class="t-years">2021–Now</div>
           <div class="t-content">
             <strong>Ph.D. in Physics</strong><br>
-            FAIR / GSI Darmstadt (CBM Collaboration) — Silicon Tracking System (STS), detector studies & data analysis
+            FAIR / GSI Darmstadt (CBM Collaboration) — STS detector studies & data analysis
           </div>
         </div>
 
@@ -115,10 +105,8 @@ format:
             (Add your university)
           </div>
         </div>
-      </div>
 
+      </div>
     </div>
   </div>
 </section>
-
-<!-- Optional: You can add more sections later using the same split-section pattern -->
