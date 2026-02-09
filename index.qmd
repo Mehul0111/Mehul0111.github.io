@@ -1,6 +1,6 @@
 ---
 title: "Mehulkumar Shiroya"
-description: "Ph.D. Researcher | CBM-STS | FAIR (GSI Darmstadt)"
+description: "Ph.D. Student"
 image: "Profile_Photo/my_photo.jpeg"
 page-navigation: false
 toc: false
