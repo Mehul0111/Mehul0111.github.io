@@ -109,7 +109,28 @@
     "href": "index.html",
     "title": "Mehulkumar Shiroya",
     "section": "",
-    "text": "&lt;img src=\"Profile_Photo/my_photo.jpeg\" alt=\"Mehulkumar Shiroya\"&gt;\n\n\nMehulkumar Shiroya\n\n\nPh.D Student\n\n\n&lt;a class=\"hbtn\" href=\"mailto:mehul0113@gmail.com\"&gt;E-mail&lt;/a&gt;\n&lt;a class=\"hbtn\" href=\"https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/\" target=\"_blank\"&gt;LinkedIn&lt;/a&gt;\n&lt;a class=\"hbtn\" href=\"https://github.com/Mehul0111\" target=\"_blank\"&gt;GitHub&lt;/a&gt;\n\n\n\n\n\n\nProfile\n\n\nCBM-STS · Silicon sensor inspection · Image processing\n\n\n\n  &lt;p&gt;\n    Currently, I am working on the silicon microstrip detector for the &lt;strong&gt;Compressed Baryonic Matter (CBM)&lt;/strong&gt; experiment.\n    My work involves optical inspection and characterization of silicon sensors. I also develop image-processing methods to locate defects\n    such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.\n  &lt;/p&gt;\n  &lt;p&gt;\n    I specialize in transforming complex datasets into &lt;strong&gt;reliable, actionable insights&lt;/strong&gt; through reproducible workflows developed\n    within international collaborations such as &lt;strong&gt;CBM/FAIR&lt;/strong&gt;, &lt;strong&gt;GSI Helmholtz Centre&lt;/strong&gt;, and\n    &lt;strong&gt;Goethe University Frankfurt&lt;/strong&gt;.\n  &lt;/p&gt;\n&lt;/div&gt;\n\n\n\n\nEducation\n\n\nPh.D · M.Sc · B.Sc\n\n\n\n  &lt;ul&gt;\n    &lt;li&gt;&lt;strong&gt;2021–Now&lt;/strong&gt; — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;2019–2021&lt;/strong&gt; — M.Sc. in Physics, (your university)&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;2016–2019&lt;/strong&gt; — B.Sc. in Physics, (your university)&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n\n\n\n\nSoftware Skills\n\n\nC++ · Python · ROOT · GEANT4 · Git\n\n\n\n  &lt;ul&gt;\n    &lt;li&gt;&lt;strong&gt;C++&lt;/strong&gt; — scientific software development&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — pandas, NumPy, SciPy&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;CERN ROOT&lt;/strong&gt;&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;GEANT4&lt;/strong&gt;&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;Git&lt;/strong&gt; — reproducible workflows&lt;/li&gt;\n    &lt;li&gt;&lt;strong&gt;Linux / Windows&lt;/strong&gt;&lt;/li&gt;\n  &lt;/ul&gt;\n  &lt;p&gt;&lt;strong&gt;Tech stack:&lt;/strong&gt; Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD&lt;/p&gt;\n&lt;/div&gt;"
+    "text": "Ph.D Student {.hero-role}\n\nE-mail (mehul0113 at gmail dot com) LinkedIn GitHub"
+  },
+  {
+    "objectID": "index.html#profile",
+    "href": "index.html#profile",
+    "title": "Mehulkumar Shiroya",
+    "section": "Profile",
+    "text": "Profile\nCBM-STS · Silicon sensor inspection · Image processing {.hp-sub}\nCurrently, I am working on the silicon microstrip detector for the Compressed Baryonic Matter (CBM) experiment.\nMy work involves optical inspection and characterization of silicon sensors. I also develop image-processing methods to locate defects such as implant breaks, open passivation, dust contamination, and damaged AC/DC pads.\nI specialize in transforming complex datasets into reliable, actionable insights through reproducible workflows developed within international collaborations such as CBM/FAIR, GSI Helmholtz Centre, and Goethe University Frankfurt."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Mehulkumar Shiroya",
+    "section": "Education",
+    "text": "Education\nPh.D · M.Sc · B.Sc {.hp-sub}\n\n2021–Now — Ph.D. in Physics, FAIR / GSI Darmstadt (CBM Collaboration)\n\n2019–2021 — M.Sc. in Physics, (your university)\n\n2016–2019 — B.Sc. in Physics, (your university)"
+  },
+  {
+    "objectID": "index.html#software-skills",
+    "href": "index.html#software-skills",
+    "title": "Mehulkumar Shiroya",
+    "section": "Software Skills",
+    "text": "Software Skills\nC++ · Python · ROOT · GEANT4 · Git {.hp-sub}\n\nC++ — scientific software development\n\nPython — pandas, NumPy, SciPy\n\nCERN ROOT\n\nGEANT4\n\nGit — reproducible workflows\n\nLinux / Windows\n\nTech stack: Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD"
   },
   {
     "objectID": "posts/paper-title/index.html#abstract",

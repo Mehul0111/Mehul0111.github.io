@@ -157,3 +157,180 @@ body{ color: var(--text) !important; font-size: 18px; line-height: 1.8; }
 @media (max-width: 900px){
   .grid-boxes{ grid-template-columns: 1fr; }
 }
+
+
+---
+
+## ✅ 2) `newstyles.css` (add this at the END of your file)
+
+```css
+/* =========================
+   CENTER HERO
+   ========================= */
+.hero-center{
+  max-width: 900px;
+  margin: 2.2rem auto 1.6rem auto;
+  padding: 0 1.2rem;
+  text-align: center;
+}
+
+.hero-photo{
+  width: 220px;
+  height: 220px;
+  margin: 0 auto 1rem auto;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,.10);
+  box-shadow: 0 14px 40px rgba(0,0,0,.30);
+  background: rgba(255,255,255,.04);
+}
+
+.hero-photo img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.hero-name{
+  font-size: 2.2rem;
+  font-weight: 850;
+  margin: .4rem 0 .2rem 0;
+  color: rgba(233,238,247,.96);
+}
+
+.hero-role{
+  color: rgba(233,238,247,.80);
+  font-weight: 650;
+  margin-bottom: 1rem;
+}
+
+.hero-btns{
+  display: flex;
+  gap: .6rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: .6rem;
+}
+
+.hbtn{
+  display: inline-block;
+  padding: .45rem .9rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.18);
+  background: rgba(255,255,255,.06);
+  color: rgba(233,238,247,.92) !important;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: .95rem;
+}
+
+.hbtn:hover{
+  background: rgba(255,255,255,.10);
+}
+
+/* Center hero */
+.hero-center{
+  max-width: 900px;
+  margin: 2.2rem auto 1.6rem auto;
+  padding: 0 1.2rem;
+  text-align: center;
+}
+
+.hero-photo-img{
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 14px;
+  display: block;
+  margin: 0 auto 1rem auto;
+  border: 1px solid rgba(255,255,255,.10);
+  box-shadow: 0 14px 40px rgba(0,0,0,.30);
+  background: rgba(255,255,255,.04);
+}
+
+.hero-name{
+  font-size: 2.2rem !important;
+  font-weight: 850 !important;
+  margin: .4rem 0 .2rem 0 !important;
+  color: rgba(233,238,247,.96);
+}
+
+.hero-role{
+  color: rgba(233,238,247,.80);
+  font-weight: 650;
+  margin-bottom: 1rem;
+}
+
+.hero-btns{
+  display: flex;
+  gap: .6rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: .6rem;
+}
+
+.hbtn{
+  display: inline-block;
+  padding: .45rem .9rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.18);
+  background: rgba(255,255,255,.06);
+  color: rgba(233,238,247,.92) !important;
+  text-decoration: none !important;
+  font-weight: 700;
+  font-size: .95rem;
+}
+.hbtn:hover{ background: rgba(255,255,255,.10); }
+
+/* Stacked panels */
+.stack-panels{
+  max-width: 1000px;
+  margin: 1.2rem auto 2.5rem auto;
+  padding: 0 1.2rem;
+  display: grid;
+  gap: 1rem;
+}
+
+/* Each panel */
+.hpanel{
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,.10);
+  box-shadow: 0 12px 35px rgba(0,0,0,.25);
+  overflow: hidden;
+  background: rgba(255,255,255,.04);
+  padding: 0 !important;
+}
+
+/* Make the heading act like the colored bar */
+.hpanel .hp-title{
+  margin: 0 !important;
+  padding: 1rem 1.2rem .25rem 1.2rem !important;
+  font-size: 1.35rem !important;
+  font-weight: 850 !important;
+  color: #fff !important;
+}
+
+.hpanel .hp-sub{
+  padding: 0 1.2rem 1rem 1.2rem;
+  margin: 0 !important;
+  font-size: .98rem;
+  color: #fff;
+  opacity: .92;
+}
+
+/* Body area */
+.hpanel > :not(.hp-title):not(.hp-sub){
+  padding: 1rem 1.2rem 1.2rem 1.2rem;
+  background: rgba(0,0,0,.18);
+  border-top: 1px solid rgba(255,255,255,.10);
+  color: rgba(233,238,247,.92);
+}
+
+/* Colors (same as before) */
+.hp-profile .hp-title, .hp-profile .hp-sub{ background:#2b5876; }
+.hp-edu .hp-title, .hp-edu .hp-sub{ background:#6a1b9a; }
+.hp-soft .hp-title, .hp-soft .hp-sub{ background:#1b5e20; }
+
+.hpanel ul{ margin: .3rem 0 0 1.1rem; }
+.hpanel li{ margin: .35rem 0; }
