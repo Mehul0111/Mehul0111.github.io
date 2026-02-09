@@ -75,10 +75,6 @@ Currently, I am working on the silicon microstrip detector for the Compressed Ba
 My work involves the optical inspection of the silicon sensor and the characterization of the sensor. 
 Further, I am doing the image processing of the silicon sensor which helps us to know and locate defects on sensor's surface such as implant break, open passivation, dust, damaged ac/dc pad etc.
 
-I specialize in transforming complex datasets into **reliable, actionable insights** through
-well-engineered workflows, developed within international collaborations such as **CBM/FAIR,
-GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
-
 
 ### Research & Data Analytics Expertise
 
@@ -86,7 +82,6 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 - Comparative studies: Primitive solids vs. Tessellated/CAD-derived geometry (runtime, secondaries, physics impact).  
 - Tracking-performance evaluation: Efficiency, Acceptance, Momentum resolution.  
 - Data rate studies in the 4-12 AGeV/c beam-momentum range for readout electronics Front-end-Boards (FEBs) assignment to the detector.  
-- Reproducible workflows, **CMake-based builds**, CI/CD, and automated testing  
 - STS physics simulations including hits reconstruction efficiency (dead-time / electronic threshold dependence), cluster characterization, and dE/dx.
 
 ### Software Skills
@@ -109,11 +104,11 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 - Building maintainable scientific software used by distributed research teams  
 - Applying physics-informed data analysis techniques to real-world problems
 
-**Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+# **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
 
 ### Get Started
 
-- **Curriculum Vitae:** [PDF](files/Curriculum_Vitae_OSingh.pdf)  
+- **Curriculum Vitae:** [PDF](My_CV/CV_M_Shiroya.pdf)  
 - **Publications:** [Complete list](publications.qmd) | [Selected papers](posts.qmd#category=paper)  
 - **GitHub:** [https://github.com/Mehul0111](https://github.com/Mehul0111)  
 - **Contact:** [Get in touch](contact.qmd)
