@@ -1,13 +1,6 @@
-
----
-
-# ✅ Full corrected `index.qmd` (copy-paste replace your whole file)
-
-```yaml
 ---
 title: "Mehulkumar Shiroya"
 description: "**Ph.D Student**"
-image: "Profile_Photo/my_photo.jpeg"
 page-layout: full
 toc: false
 page-navigation: false
@@ -15,6 +8,7 @@ page-navigation: false
 about:
   id: hero-heading
   template: trestles
+  image: "Profile_Photo/my_photo.jpeg"
   image-width: 70%
   links:
     - icon: envelope
@@ -24,8 +18,13 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/mehulkumar-shiroya-3663b360/
       target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/Mehul0111
+      target: _blank
 ---
 
+```{=html}
 <div class="grid-boxes">
 
   <details class="box box-profile" open>
