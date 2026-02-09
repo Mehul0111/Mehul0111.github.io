@@ -101,7 +101,9 @@ bibliography: references.bib  # Add references.bib to the root folder to enable 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css:
+      - styles.css
+      - newstyles.css
     toc: true
     footnotes-hover: true
     code-copy: true
@@ -112,5 +114,9 @@ format:
     link-external-newwindow: true
     email-obfuscation: javascript
     link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
-    include-in-header: "files/includes/_academic.qmd"
+    include-in-header:
+      - files/includes/_academic.qmd
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
 
