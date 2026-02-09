@@ -109,7 +109,7 @@ GSI Helmholtz Centre**, and **Goethe University Frankfurt**.
 - Building maintainable scientific software used by distributed research teams  
 - Applying physics-informed data analysis techniques to real-world problems
 
-# **Tech stack:** Python · SQL · C++ · Git · Linux · ROOT · CMake · CI/CD
+
 
 ### Get Started
 
